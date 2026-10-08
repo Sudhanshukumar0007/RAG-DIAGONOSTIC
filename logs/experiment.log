@@ -1,0 +1,840 @@
+2026-08-23 14:35:24 [INFO    ] [fetch_articles:152] ============================================================
+2026-08-23 14:35:24 [INFO    ] [fetch_articles:153] STEP 1 — Fetch Wikipedia Articles
+2026-08-23 14:35:24 [INFO    ] [fetch_articles:154] ============================================================
+2026-08-23 14:35:24 [INFO    ] [fetch_articles:164] 
+Topic: RAJASTHAN
+2026-08-23 14:35:24 [INFO    ] [fetch_articles:124]   Fetching [EN] 'Rajasthan' …
+2026-08-23 14:35:26 [INFO    ] [fetch_articles:145]   ✓ Saved rajasthan_en.txt  (43471 chars)
+2026-08-23 14:35:26 [INFO    ] [fetch_articles:124]   Fetching [HI] 'राजस्थान' …
+2026-08-23 14:36:02 [DEBUG   ] [fetch_articles:79] Skipping section: सन्दर्भ
+2026-08-23 14:36:02 [INFO    ] [fetch_articles:145]   ✓ Saved rajasthan_hi.txt  (23019 chars)
+2026-08-23 14:36:03 [INFO    ] [fetch_articles:164] 
+Topic: KERALA
+2026-08-23 14:36:03 [INFO    ] [fetch_articles:124]   Fetching [EN] 'Kerala' …
+2026-08-23 14:36:04 [INFO    ] [fetch_articles:145]   ✓ Saved kerala_en.txt  (93938 chars)
+2026-08-23 14:36:05 [INFO    ] [fetch_articles:124]   Fetching [HI] 'केरल' …
+2026-08-23 14:36:06 [INFO    ] [fetch_articles:145]   ✓ Saved kerala_hi.txt  (17668 chars)
+2026-08-23 14:36:07 [INFO    ] [fetch_articles:164] 
+Topic: PUNJAB
+2026-08-23 14:36:07 [INFO    ] [fetch_articles:124]   Fetching [EN] 'Punjab, India' …
+2026-08-23 14:36:08 [INFO    ] [fetch_articles:145]   ✓ Saved punjab_en.txt  (65128 chars)
+2026-08-23 14:36:09 [INFO    ] [fetch_articles:124]   Fetching [HI] 'पंजाब, भारत' …
+2026-08-23 14:36:10 [INFO    ] [fetch_articles:145]   ✓ Saved punjab_hi.txt  (7769 chars)
+2026-08-23 14:36:10 [INFO    ] [fetch_articles:164] 
+Topic: MAHARASHTRA
+2026-08-23 14:36:10 [INFO    ] [fetch_articles:124]   Fetching [EN] 'Maharashtra' …
+2026-08-23 14:36:12 [INFO    ] [fetch_articles:145]   ✓ Saved maharashtra_en.txt  (84247 chars)
+2026-08-23 14:36:12 [INFO    ] [fetch_articles:124]   Fetching [HI] 'महाराष्ट्र' …
+2026-08-23 14:36:14 [INFO    ] [fetch_articles:145]   ✓ Saved maharashtra_hi.txt  (10722 chars)
+2026-08-23 14:36:15 [INFO    ] [fetch_articles:164] 
+Topic: UTTAR_PRADESH
+2026-08-23 14:36:15 [INFO    ] [fetch_articles:124]   Fetching [EN] 'Uttar Pradesh' …
+2026-08-23 14:36:17 [INFO    ] [fetch_articles:145]   ✓ Saved uttar_pradesh_en.txt  (65448 chars)
+2026-08-23 14:36:17 [INFO    ] [fetch_articles:124]   Fetching [HI] 'उत्तर प्रदेश' …
+2026-08-23 14:36:20 [INFO    ] [fetch_articles:145]   ✓ Saved uttar_pradesh_hi.txt  (50858 chars)
+2026-08-23 14:36:21 [INFO    ] [fetch_articles:164] 
+Topic: BIHAR
+2026-08-23 14:36:21 [INFO    ] [fetch_articles:124]   Fetching [EN] 'Bihar' …
+2026-08-23 14:37:02 [INFO    ] [fetch_articles:145]   ✓ Saved bihar_en.txt  (56523 chars)
+2026-08-23 14:37:02 [INFO    ] [fetch_articles:124]   Fetching [HI] 'बिहार' …
+2026-08-23 14:37:04 [INFO    ] [fetch_articles:145]   ✓ Saved bihar_hi.txt  (29644 chars)
+2026-08-23 14:37:04 [INFO    ] [fetch_articles:164] 
+Topic: GUJARAT
+2026-08-23 14:37:04 [INFO    ] [fetch_articles:124]   Fetching [EN] 'Gujarat' …
+2026-08-23 14:37:06 [INFO    ] [fetch_articles:145]   ✓ Saved gujarat_en.txt  (81979 chars)
+2026-08-23 14:37:06 [INFO    ] [fetch_articles:124]   Fetching [HI] 'गुजरात' …
+2026-08-23 14:37:08 [INFO    ] [fetch_articles:145]   ✓ Saved gujarat_hi.txt  (19084 chars)
+2026-08-23 14:37:09 [INFO    ] [fetch_articles:164] 
+Topic: TAMIL_NADU
+2026-08-23 14:37:09 [INFO    ] [fetch_articles:124]   Fetching [EN] 'Tamil Nadu' …
+2026-08-23 14:37:10 [INFO    ] [fetch_articles:145]   ✓ Saved tamil_nadu_en.txt  (74467 chars)
+2026-08-23 14:37:11 [INFO    ] [fetch_articles:124]   Fetching [HI] 'तमिल नाडु' …
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:145]   ✓ Saved tamil_nadu_hi.txt  (3257 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:190] 
+── Summary ──
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:191] Files saved: 16 / 16 expected
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   bihar_en.txt  (56856 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   bihar_hi.txt  (77233 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   gujarat_en.txt  (82511 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   gujarat_hi.txt  (49651 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   kerala_en.txt  (94351 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   kerala_hi.txt  (45506 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   maharashtra_en.txt  (84582 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   maharashtra_hi.txt  (27781 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   punjab_en.txt  (65594 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   punjab_hi.txt  (19941 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   rajasthan_en.txt  (43690 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   rajasthan_hi.txt  (59204 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   tamil_nadu_en.txt  (74805 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   tamil_nadu_hi.txt  (8402 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   uttar_pradesh_en.txt  (65789 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:193]   uttar_pradesh_hi.txt  (131182 chars)
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:198] ✓ All 16 articles fetched successfully.
+2026-08-23 14:37:12 [INFO    ] [fetch_articles:200] STEP 1 complete.
+
+2026-08-23 14:39:03 [INFO    ] [build_index:176] ============================================================
+2026-08-23 14:39:03 [INFO    ] [build_index:177] STEP 2+3 — Chunk Articles & Build Vector Index
+2026-08-23 14:39:03 [INFO    ] [build_index:178] ============================================================
+2026-08-23 14:39:03 [INFO    ] [build_index:62] Loaded 16 raw article files
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   bihar_en → 178 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   bihar_hi → 101 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   gujarat_en → 266 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   gujarat_hi → 66 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   kerala_en → 286 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   kerala_hi → 62 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   maharashtra_en → 260 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   maharashtra_hi → 30 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   punjab_en → 206 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   punjab_hi → 25 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   rajasthan_en → 143 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   rajasthan_hi → 64 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   tamil_nadu_en → 242 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   tamil_nadu_hi → 10 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   uttar_pradesh_en → 197 chunks
+2026-08-23 14:39:03 [DEBUG   ] [build_index:87]   uttar_pradesh_hi → 163 chunks
+2026-08-23 14:39:03 [INFO    ] [build_index:91] Total chunks created: 2299
+2026-08-23 14:39:03 [INFO    ] [build_index:97] Loading embedding model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2026-08-23 14:41:13 [INFO    ] [build_index:101] Embedding model loaded — dimension: 384
+2026-08-23 14:41:13 [INFO    ] [build_index:108] Embedding model info saved to data/embedding_model_info.json
+2026-08-23 14:41:14 [INFO    ] [build_index:138] Embedding 2299 chunks (this may take a minute)…
+2026-08-23 14:42:54 [INFO    ] [build_index:160] Adding 2299 chunks to Chroma…
+2026-08-23 14:42:56 [INFO    ] [build_index:172] ✓ Chroma collection 'rag_diagnostic' now has 2299 documents.
+2026-08-23 14:42:56 [INFO    ] [build_index:190] STEP 2+3 complete.
+
+2026-08-23 14:43:10 [INFO    ] [generate_queries:138] ============================================================
+2026-08-23 14:43:10 [INFO    ] [generate_queries:139] STEP 4 — Generate Query Triplets (English / Hindi / Hinglish)
+2026-08-23 14:43:10 [INFO    ] [generate_queries:140] ============================================================
+2026-08-23 14:43:10 [INFO    ] [generate_queries:148] Groq client initialized with model: qwen/qwen3-32b
+2026-08-23 14:43:10 [INFO    ] [generate_queries:159] 
+Translating: [rajasthan_q0] What is the capital of Rajasthan?
+2026-08-23 14:43:10 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): What is the capital of Rajasthan?
+2026-08-23 14:43:10 [WARNING ] [generate_queries:130]   API error on attempt 1: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:43:12 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): What is the capital of Rajasthan?
+2026-08-23 14:43:12 [WARNING ] [generate_queries:130]   API error on attempt 2: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:43:16 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): What is the capital of Rajasthan?
+2026-08-23 14:43:17 [WARNING ] [generate_queries:130]   API error on attempt 3: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:43:25 [ERROR   ] [generate_queries:133]   Failed to translate after 3 attempts: What is the capital of Rajasthan?
+2026-08-23 14:43:26 [INFO    ] [generate_queries:159] 
+Translating: [rajasthan_q1] Which desert is located in Rajasthan?
+2026-08-23 14:43:26 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): Which desert is located in Rajasthan?
+2026-08-23 14:43:26 [WARNING ] [generate_queries:130]   API error on attempt 1: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:43:28 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): Which desert is located in Rajasthan?
+2026-08-23 14:43:28 [WARNING ] [generate_queries:130]   API error on attempt 2: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:43:32 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): Which desert is located in Rajasthan?
+2026-08-23 14:43:32 [WARNING ] [generate_queries:130]   API error on attempt 3: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:43:40 [ERROR   ] [generate_queries:133]   Failed to translate after 3 attempts: Which desert is located in Rajasthan?
+2026-08-23 14:43:41 [INFO    ] [generate_queries:159] 
+Translating: [rajasthan_q2] What is the official language of Rajasthan?
+2026-08-23 14:43:41 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): What is the official language of Rajasthan?
+2026-08-23 14:43:41 [WARNING ] [generate_queries:130]   API error on attempt 1: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:43:43 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): What is the official language of Rajasthan?
+2026-08-23 14:43:44 [WARNING ] [generate_queries:130]   API error on attempt 2: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:43:48 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): What is the official language of Rajasthan?
+2026-08-23 14:43:48 [WARNING ] [generate_queries:130]   API error on attempt 3: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:43:56 [ERROR   ] [generate_queries:133]   Failed to translate after 3 attempts: What is the official language of Rajasthan?
+2026-08-23 14:43:57 [INFO    ] [generate_queries:159] 
+Translating: [kerala_q0] What is the capital of Kerala?
+2026-08-23 14:43:57 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): What is the capital of Kerala?
+2026-08-23 14:43:57 [WARNING ] [generate_queries:130]   API error on attempt 1: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:43:59 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): What is the capital of Kerala?
+2026-08-23 14:43:59 [WARNING ] [generate_queries:130]   API error on attempt 2: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:44:03 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): What is the capital of Kerala?
+2026-08-23 14:44:03 [WARNING ] [generate_queries:130]   API error on attempt 3: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:44:11 [ERROR   ] [generate_queries:133]   Failed to translate after 3 attempts: What is the capital of Kerala?
+2026-08-23 14:44:12 [INFO    ] [generate_queries:159] 
+Translating: [kerala_q1] Which river is the longest in Kerala?
+2026-08-23 14:44:12 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): Which river is the longest in Kerala?
+2026-08-23 14:44:12 [WARNING ] [generate_queries:130]   API error on attempt 1: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:44:14 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): Which river is the longest in Kerala?
+2026-08-23 14:44:15 [WARNING ] [generate_queries:130]   API error on attempt 2: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:44:19 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): Which river is the longest in Kerala?
+2026-08-23 14:44:19 [WARNING ] [generate_queries:130]   API error on attempt 3: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:44:27 [ERROR   ] [generate_queries:133]   Failed to translate after 3 attempts: Which river is the longest in Kerala?
+2026-08-23 14:44:28 [INFO    ] [generate_queries:159] 
+Translating: [kerala_q2] What is the literacy rate of Kerala known for in India?
+2026-08-23 14:44:28 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): What is the literacy rate of Kerala known for in India?
+2026-08-23 14:44:28 [WARNING ] [generate_queries:130]   API error on attempt 1: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:44:30 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): What is the literacy rate of Kerala known for in India?
+2026-08-23 14:44:30 [WARNING ] [generate_queries:130]   API error on attempt 2: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:44:34 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): What is the literacy rate of Kerala known for in India?
+2026-08-23 14:44:34 [WARNING ] [generate_queries:130]   API error on attempt 3: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:44:43 [ERROR   ] [generate_queries:133]   Failed to translate after 3 attempts: What is the literacy rate of Kerala known for in India?
+2026-08-23 14:44:44 [INFO    ] [generate_queries:159] 
+Translating: [punjab_q0] What is the capital of Punjab?
+2026-08-23 14:44:44 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): What is the capital of Punjab?
+2026-08-23 14:44:44 [WARNING ] [generate_queries:130]   API error on attempt 1: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:44:46 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): What is the capital of Punjab?
+2026-08-23 14:44:46 [WARNING ] [generate_queries:130]   API error on attempt 2: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:44:50 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): What is the capital of Punjab?
+2026-08-23 14:44:50 [WARNING ] [generate_queries:130]   API error on attempt 3: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:44:58 [ERROR   ] [generate_queries:133]   Failed to translate after 3 attempts: What is the capital of Punjab?
+2026-08-23 14:44:59 [INFO    ] [generate_queries:159] 
+Translating: [punjab_q1] Which river gives Punjab its name?
+2026-08-23 14:44:59 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): Which river gives Punjab its name?
+2026-08-23 14:44:59 [WARNING ] [generate_queries:130]   API error on attempt 1: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:45:01 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): Which river gives Punjab its name?
+2026-08-23 14:45:01 [WARNING ] [generate_queries:130]   API error on attempt 2: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:45:05 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): Which river gives Punjab its name?
+2026-08-23 14:45:05 [WARNING ] [generate_queries:130]   API error on attempt 3: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:45:13 [ERROR   ] [generate_queries:133]   Failed to translate after 3 attempts: Which river gives Punjab its name?
+2026-08-23 14:45:14 [INFO    ] [generate_queries:159] 
+Translating: [punjab_q2] What is the main language spoken in Punjab?
+2026-08-23 14:45:14 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): What is the main language spoken in Punjab?
+2026-08-23 14:45:14 [WARNING ] [generate_queries:130]   API error on attempt 1: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:45:16 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): What is the main language spoken in Punjab?
+2026-08-23 14:45:16 [WARNING ] [generate_queries:130]   API error on attempt 2: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:45:20 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): What is the main language spoken in Punjab?
+2026-08-23 14:45:21 [WARNING ] [generate_queries:130]   API error on attempt 3: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:45:29 [ERROR   ] [generate_queries:133]   Failed to translate after 3 attempts: What is the main language spoken in Punjab?
+2026-08-23 14:45:30 [INFO    ] [generate_queries:159] 
+Translating: [maharashtra_q0] What is the capital of Maharashtra?
+2026-08-23 14:45:30 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): What is the capital of Maharashtra?
+2026-08-23 14:45:30 [WARNING ] [generate_queries:130]   API error on attempt 1: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:45:32 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): What is the capital of Maharashtra?
+2026-08-23 14:45:32 [WARNING ] [generate_queries:130]   API error on attempt 2: Error code: 404 - {'error': {'message': 'The model `qwen/qwen3-32b` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}} — retrying…
+2026-08-23 14:47:44 [INFO    ] [generate_queries:138] ============================================================
+2026-08-23 14:47:44 [INFO    ] [generate_queries:139] STEP 4 — Generate Query Triplets (English / Hindi / Hinglish)
+2026-08-23 14:47:44 [INFO    ] [generate_queries:140] ============================================================
+2026-08-23 14:47:44 [INFO    ] [generate_queries:148] Groq client initialized with model: qwen/qwen3.6-27b
+2026-08-23 14:47:44 [INFO    ] [generate_queries:159] 
+Translating: [rajasthan_q0] What is the capital of Rajasthan?
+2026-08-23 14:47:44 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): What is the capital of Rajasthan?
+2026-08-23 14:47:45 [WARNING ] [generate_queries:127]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:47:47 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): What is the capital of Rajasthan?
+2026-08-23 14:47:47 [WARNING ] [generate_queries:127]   Parse error on attempt 2: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:47:51 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): What is the capital of Rajasthan?
+2026-08-23 14:47:52 [WARNING ] [generate_queries:127]   Parse error on attempt 3: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:48:00 [ERROR   ] [generate_queries:133]   Failed to translate after 3 attempts: What is the capital of Rajasthan?
+2026-08-23 14:48:01 [INFO    ] [generate_queries:159] 
+Translating: [rajasthan_q1] Which desert is located in Rajasthan?
+2026-08-23 14:48:01 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): Which desert is located in Rajasthan?
+2026-08-23 14:48:02 [WARNING ] [generate_queries:127]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:48:04 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): Which desert is located in Rajasthan?
+2026-08-23 14:48:05 [WARNING ] [generate_queries:127]   Parse error on attempt 2: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:48:09 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): Which desert is located in Rajasthan?
+2026-08-23 14:48:09 [WARNING ] [generate_queries:127]   Parse error on attempt 3: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:48:17 [ERROR   ] [generate_queries:133]   Failed to translate after 3 attempts: Which desert is located in Rajasthan?
+2026-08-23 14:48:18 [INFO    ] [generate_queries:159] 
+Translating: [rajasthan_q2] What is the official language of Rajasthan?
+2026-08-23 14:48:18 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): What is the official language of Rajasthan?
+2026-08-23 14:48:19 [WARNING ] [generate_queries:127]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:48:21 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): What is the official language of Rajasthan?
+2026-08-23 14:48:22 [WARNING ] [generate_queries:127]   Parse error on attempt 2: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:48:26 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): What is the official language of Rajasthan?
+2026-08-23 14:48:27 [WARNING ] [generate_queries:127]   Parse error on attempt 3: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:48:35 [ERROR   ] [generate_queries:133]   Failed to translate after 3 attempts: What is the official language of Rajasthan?
+2026-08-23 14:48:36 [INFO    ] [generate_queries:159] 
+Translating: [kerala_q0] What is the capital of Kerala?
+2026-08-23 14:48:36 [DEBUG   ] [generate_queries:105]   Translating (attempt 1): What is the capital of Kerala?
+2026-08-23 14:48:36 [WARNING ] [generate_queries:127]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:48:38 [DEBUG   ] [generate_queries:105]   Translating (attempt 2): What is the capital of Kerala?
+2026-08-23 14:48:39 [WARNING ] [generate_queries:127]   Parse error on attempt 2: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:48:43 [DEBUG   ] [generate_queries:105]   Translating (attempt 3): What is the capital of Kerala?
+2026-08-23 14:48:44 [WARNING ] [generate_queries:127]   Parse error on attempt 3: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:51:14 [INFO    ] [generate_queries:147] ============================================================
+2026-08-23 14:51:14 [INFO    ] [generate_queries:148] STEP 4 — Generate Query Triplets (English / Hindi / Hinglish)
+2026-08-23 14:51:14 [INFO    ] [generate_queries:149] ============================================================
+2026-08-23 14:51:14 [INFO    ] [generate_queries:157] Groq client initialized with model: qwen/qwen3.6-27b
+2026-08-23 14:51:14 [INFO    ] [generate_queries:168] 
+Translating: [rajasthan_q0] What is the capital of Rajasthan?
+2026-08-23 14:51:14 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the capital of Rajasthan?
+2026-08-23 14:51:16 [DEBUG   ] [generate_queries:131]     Hindi: राजस्थान की राजधानी क्या है?
+2026-08-23 14:51:16 [DEBUG   ] [generate_queries:132]     Hinglish: Rajasthan ki capital kya hai?
+2026-08-23 14:51:17 [INFO    ] [generate_queries:168] 
+Translating: [rajasthan_q1] Which desert is located in Rajasthan?
+2026-08-23 14:51:17 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): Which desert is located in Rajasthan?
+2026-08-23 14:51:19 [WARNING ] [generate_queries:136]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:51:21 [DEBUG   ] [generate_queries:106]   Translating (attempt 2): Which desert is located in Rajasthan?
+2026-08-23 14:51:23 [WARNING ] [generate_queries:136]   Parse error on attempt 2: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:51:27 [DEBUG   ] [generate_queries:106]   Translating (attempt 3): Which desert is located in Rajasthan?
+2026-08-23 14:51:29 [WARNING ] [generate_queries:136]   Parse error on attempt 3: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:51:37 [ERROR   ] [generate_queries:142]   Failed to translate after 3 attempts: Which desert is located in Rajasthan?
+2026-08-23 14:51:38 [INFO    ] [generate_queries:168] 
+Translating: [rajasthan_q2] What is the official language of Rajasthan?
+2026-08-23 14:51:38 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the official language of Rajasthan?
+2026-08-23 14:51:41 [WARNING ] [generate_queries:136]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:51:43 [DEBUG   ] [generate_queries:106]   Translating (attempt 2): What is the official language of Rajasthan?
+2026-08-23 14:51:45 [WARNING ] [generate_queries:136]   Parse error on attempt 2: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:51:49 [DEBUG   ] [generate_queries:106]   Translating (attempt 3): What is the official language of Rajasthan?
+2026-08-23 14:51:51 [WARNING ] [generate_queries:136]   Parse error on attempt 3: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:51:59 [ERROR   ] [generate_queries:142]   Failed to translate after 3 attempts: What is the official language of Rajasthan?
+2026-08-23 14:52:00 [INFO    ] [generate_queries:168] 
+Translating: [kerala_q0] What is the capital of Kerala?
+2026-08-23 14:52:00 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the capital of Kerala?
+2026-08-23 14:52:02 [DEBUG   ] [generate_queries:131]     Hindi: केरल की राजधानी क्या है?
+2026-08-23 14:52:02 [DEBUG   ] [generate_queries:132]     Hinglish: Kerala ki capital kya hai?
+2026-08-23 14:52:03 [INFO    ] [generate_queries:168] 
+Translating: [kerala_q1] Which river is the longest in Kerala?
+2026-08-23 14:52:03 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): Which river is the longest in Kerala?
+2026-08-23 14:52:06 [WARNING ] [generate_queries:136]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:52:08 [DEBUG   ] [generate_queries:106]   Translating (attempt 2): Which river is the longest in Kerala?
+2026-08-23 14:52:10 [WARNING ] [generate_queries:136]   Parse error on attempt 2: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:52:14 [DEBUG   ] [generate_queries:106]   Translating (attempt 3): Which river is the longest in Kerala?
+2026-08-23 14:52:16 [WARNING ] [generate_queries:136]   Parse error on attempt 3: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:52:24 [ERROR   ] [generate_queries:142]   Failed to translate after 3 attempts: Which river is the longest in Kerala?
+2026-08-23 14:52:25 [INFO    ] [generate_queries:168] 
+Translating: [kerala_q2] What is the literacy rate of Kerala known for in India?
+2026-08-23 14:52:25 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the literacy rate of Kerala known for in India?
+2026-08-23 14:52:27 [WARNING ] [generate_queries:136]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:52:29 [DEBUG   ] [generate_queries:106]   Translating (attempt 2): What is the literacy rate of Kerala known for in India?
+2026-08-23 14:52:31 [WARNING ] [generate_queries:136]   Parse error on attempt 2: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:52:35 [DEBUG   ] [generate_queries:106]   Translating (attempt 3): What is the literacy rate of Kerala known for in India?
+2026-08-23 14:52:37 [WARNING ] [generate_queries:136]   Parse error on attempt 3: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:52:45 [ERROR   ] [generate_queries:142]   Failed to translate after 3 attempts: What is the literacy rate of Kerala known for in India?
+2026-08-23 14:52:46 [INFO    ] [generate_queries:168] 
+Translating: [punjab_q0] What is the capital of Punjab?
+2026-08-23 14:52:46 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the capital of Punjab?
+2026-08-23 14:52:49 [WARNING ] [generate_queries:136]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:52:51 [DEBUG   ] [generate_queries:106]   Translating (attempt 2): What is the capital of Punjab?
+2026-08-23 14:52:53 [WARNING ] [generate_queries:136]   Parse error on attempt 2: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:52:57 [DEBUG   ] [generate_queries:106]   Translating (attempt 3): What is the capital of Punjab?
+2026-08-23 14:52:59 [WARNING ] [generate_queries:136]   Parse error on attempt 3: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:53:07 [ERROR   ] [generate_queries:142]   Failed to translate after 3 attempts: What is the capital of Punjab?
+2026-08-23 14:53:08 [INFO    ] [generate_queries:168] 
+Translating: [punjab_q1] Which river gives Punjab its name?
+2026-08-23 14:53:08 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): Which river gives Punjab its name?
+2026-08-23 14:53:10 [WARNING ] [generate_queries:136]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:53:12 [DEBUG   ] [generate_queries:106]   Translating (attempt 2): Which river gives Punjab its name?
+2026-08-23 14:53:14 [WARNING ] [generate_queries:136]   Parse error on attempt 2: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:53:18 [DEBUG   ] [generate_queries:106]   Translating (attempt 3): Which river gives Punjab its name?
+2026-08-23 14:53:20 [WARNING ] [generate_queries:136]   Parse error on attempt 3: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:53:28 [ERROR   ] [generate_queries:142]   Failed to translate after 3 attempts: Which river gives Punjab its name?
+2026-08-23 14:53:29 [INFO    ] [generate_queries:168] 
+Translating: [punjab_q2] What is the main language spoken in Punjab?
+2026-08-23 14:53:29 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the main language spoken in Punjab?
+2026-08-23 14:53:32 [WARNING ] [generate_queries:136]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:53:34 [DEBUG   ] [generate_queries:106]   Translating (attempt 2): What is the main language spoken in Punjab?
+2026-08-23 14:53:39 [WARNING ] [generate_queries:136]   Parse error on attempt 2: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:53:43 [DEBUG   ] [generate_queries:106]   Translating (attempt 3): What is the main language spoken in Punjab?
+2026-08-23 14:53:46 [WARNING ] [generate_queries:136]   Parse error on attempt 3: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:53:54 [ERROR   ] [generate_queries:142]   Failed to translate after 3 attempts: What is the main language spoken in Punjab?
+2026-08-23 14:53:55 [INFO    ] [generate_queries:168] 
+Translating: [maharashtra_q0] What is the capital of Maharashtra?
+2026-08-23 14:53:55 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the capital of Maharashtra?
+2026-08-23 14:53:57 [WARNING ] [generate_queries:136]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:53:59 [DEBUG   ] [generate_queries:106]   Translating (attempt 2): What is the capital of Maharashtra?
+2026-08-23 14:54:03 [DEBUG   ] [generate_queries:131]     Hindi: महाराष्ट्र की राजधानी क्या है?
+2026-08-23 14:54:03 [DEBUG   ] [generate_queries:132]     Hinglish: Maharashtra ki capital kya hai?
+2026-08-23 14:54:04 [INFO    ] [generate_queries:168] 
+Translating: [maharashtra_q1] Which dance form is famous in Maharashtra?
+2026-08-23 14:54:04 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): Which dance form is famous in Maharashtra?
+2026-08-23 14:54:10 [WARNING ] [generate_queries:136]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:54:12 [DEBUG   ] [generate_queries:106]   Translating (attempt 2): Which dance form is famous in Maharashtra?
+2026-08-23 14:54:19 [WARNING ] [generate_queries:136]   Parse error on attempt 2: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:54:23 [DEBUG   ] [generate_queries:106]   Translating (attempt 3): Which dance form is famous in Maharashtra?
+2026-08-23 14:54:29 [WARNING ] [generate_queries:136]   Parse error on attempt 3: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:54:37 [ERROR   ] [generate_queries:142]   Failed to translate after 3 attempts: Which dance form is famous in Maharashtra?
+2026-08-23 14:54:38 [INFO    ] [generate_queries:168] 
+Translating: [maharashtra_q2] What is the official language of Maharashtra?
+2026-08-23 14:54:38 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the official language of Maharashtra?
+2026-08-23 14:54:40 [WARNING ] [generate_queries:136]   Parse error on attempt 1: Expecting value: line 1 column 1 (char 0) — retrying…
+2026-08-23 14:56:06 [INFO    ] [generate_queries:143] ============================================================
+2026-08-23 14:56:06 [INFO    ] [generate_queries:144] STEP 4 — Generate Query Triplets (English / Hindi / Hinglish)
+2026-08-23 14:56:06 [INFO    ] [generate_queries:145] ============================================================
+2026-08-23 14:56:06 [INFO    ] [generate_queries:153] Groq client initialized with model: openai/gpt-oss-20b
+2026-08-23 14:56:06 [INFO    ] [generate_queries:164] 
+Translating: [rajasthan_q0] What is the capital of Rajasthan?
+2026-08-23 14:56:06 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the capital of Rajasthan?
+2026-08-23 14:56:06 [DEBUG   ] [generate_queries:127]     Hindi: राजस्थान की राजधानी क्या है?
+2026-08-23 14:56:06 [DEBUG   ] [generate_queries:128]     Hinglish: Rajasthan ki capital kya hai?
+2026-08-23 14:56:07 [INFO    ] [generate_queries:164] 
+Translating: [rajasthan_q1] Which desert is located in Rajasthan?
+2026-08-23 14:56:07 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): Which desert is located in Rajasthan?
+2026-08-23 14:56:08 [DEBUG   ] [generate_queries:127]     Hindi: रजस्थान में कौन सा रेगिस्तान स्थित है?
+2026-08-23 14:56:08 [DEBUG   ] [generate_queries:128]     Hinglish: Rajasthan mein kaun sa desert hai?
+2026-08-23 14:56:09 [INFO    ] [generate_queries:164] 
+Translating: [rajasthan_q2] What is the official language of Rajasthan?
+2026-08-23 14:56:09 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the official language of Rajasthan?
+2026-08-23 14:56:10 [DEBUG   ] [generate_queries:127]     Hindi: राजस्थान की आधिकारिक भाषा क्या है?
+2026-08-23 14:56:10 [DEBUG   ] [generate_queries:128]     Hinglish: Rajasthan ki official language kya hai?
+2026-08-23 14:56:11 [INFO    ] [generate_queries:164] 
+Translating: [kerala_q0] What is the capital of Kerala?
+2026-08-23 14:56:11 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the capital of Kerala?
+2026-08-23 14:56:11 [DEBUG   ] [generate_queries:127]     Hindi: केरल की राजधानी क्या है?
+2026-08-23 14:56:11 [DEBUG   ] [generate_queries:128]     Hinglish: Kerala ki capital kya hai?
+2026-08-23 14:56:12 [INFO    ] [generate_queries:164] 
+Translating: [kerala_q1] Which river is the longest in Kerala?
+2026-08-23 14:56:12 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): Which river is the longest in Kerala?
+2026-08-23 14:56:13 [DEBUG   ] [generate_queries:127]     Hindi: केरल में सबसे लंबी नदी कौन सी है?
+2026-08-23 14:56:13 [DEBUG   ] [generate_queries:128]     Hinglish: Kerala ki sabse lambi nadi kaun si hai?
+2026-08-23 14:56:14 [INFO    ] [generate_queries:164] 
+Translating: [kerala_q2] What is the literacy rate of Kerala known for in India?
+2026-08-23 14:56:14 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the literacy rate of Kerala known for in India?
+2026-08-23 14:56:14 [DEBUG   ] [generate_queries:127]     Hindi: भारत में केरल की साक्षरता दर कितनी है?
+2026-08-23 14:56:14 [DEBUG   ] [generate_queries:128]     Hinglish: India mein Kerala ki literacy rate kitni hai?
+2026-08-23 14:56:15 [INFO    ] [generate_queries:164] 
+Translating: [punjab_q0] What is the capital of Punjab?
+2026-08-23 14:56:15 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the capital of Punjab?
+2026-08-23 14:56:16 [DEBUG   ] [generate_queries:127]     Hindi: पंजाब की राजधानी क्या है?
+2026-08-23 14:56:16 [DEBUG   ] [generate_queries:128]     Hinglish: Punjab ki rajdhani kya hai?
+2026-08-23 14:56:17 [INFO    ] [generate_queries:164] 
+Translating: [punjab_q1] Which river gives Punjab its name?
+2026-08-23 14:56:17 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): Which river gives Punjab its name?
+2026-08-23 14:56:18 [DEBUG   ] [generate_queries:127]     Hindi: किस नदी ने पंजाब का नाम दिया?
+2026-08-23 14:56:18 [DEBUG   ] [generate_queries:128]     Hinglish: Kaun si nadi ne Punjab ka naam diya?
+2026-08-23 14:56:19 [INFO    ] [generate_queries:164] 
+Translating: [punjab_q2] What is the main language spoken in Punjab?
+2026-08-23 14:56:19 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the main language spoken in Punjab?
+2026-08-23 14:56:19 [DEBUG   ] [generate_queries:127]     Hindi: पंजाब में मुख्य भाषा कौन सी है?
+2026-08-23 14:56:19 [DEBUG   ] [generate_queries:128]     Hinglish: Punjab mein main language kya hai?
+2026-08-23 14:56:20 [INFO    ] [generate_queries:164] 
+Translating: [maharashtra_q0] What is the capital of Maharashtra?
+2026-08-23 14:56:20 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the capital of Maharashtra?
+2026-08-23 14:56:21 [DEBUG   ] [generate_queries:127]     Hindi: महाराष्ट्र की राजधानी क्या है?
+2026-08-23 14:56:21 [DEBUG   ] [generate_queries:128]     Hinglish: Maharashtra ki rajdhani kya hai?
+2026-08-23 14:56:22 [INFO    ] [generate_queries:164] 
+Translating: [maharashtra_q1] Which dance form is famous in Maharashtra?
+2026-08-23 14:56:22 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): Which dance form is famous in Maharashtra?
+2026-08-23 14:56:23 [DEBUG   ] [generate_queries:127]     Hindi: महाराष्ट्र में कौन सा नृत्य रूप प्रसिद्ध है?
+2026-08-23 14:56:23 [DEBUG   ] [generate_queries:128]     Hinglish: Maharashtra mein kaun sa dance form famous hai?
+2026-08-23 14:56:24 [INFO    ] [generate_queries:164] 
+Translating: [maharashtra_q2] What is the official language of Maharashtra?
+2026-08-23 14:56:24 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the official language of Maharashtra?
+2026-08-23 14:56:24 [DEBUG   ] [generate_queries:127]     Hindi: महाराष्ट्र की आधिकारिक भाषा क्या है?
+2026-08-23 14:56:24 [DEBUG   ] [generate_queries:128]     Hinglish: Maharashtra ki official language kya hai?
+2026-08-23 14:56:25 [INFO    ] [generate_queries:164] 
+Translating: [uttar_pradesh_q0] What is the capital of Uttar Pradesh?
+2026-08-23 14:56:25 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the capital of Uttar Pradesh?
+2026-08-23 14:56:26 [DEBUG   ] [generate_queries:127]     Hindi: उत्तर प्रदेश की राजधानी क्या है?
+2026-08-23 14:56:26 [DEBUG   ] [generate_queries:128]     Hinglish: Uttar Pradesh ki capital kya hai?
+2026-08-23 14:56:27 [INFO    ] [generate_queries:164] 
+Translating: [uttar_pradesh_q1] Which famous monument is located in Agra, Uttar Pradesh?
+2026-08-23 14:56:27 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): Which famous monument is located in Agra, Uttar Pradesh?
+2026-08-23 14:56:27 [DEBUG   ] [generate_queries:127]     Hindi: अगरा, उत्तर प्रदेश में कौन सा प्रसिद्ध स्मारक स्थित है?
+2026-08-23 14:56:27 [DEBUG   ] [generate_queries:128]     Hinglish: Agra, Uttar Pradesh mein kaun sa mashhoor monument hai?
+2026-08-23 14:56:28 [INFO    ] [generate_queries:164] 
+Translating: [uttar_pradesh_q2] What is the most populated state in India?
+2026-08-23 14:56:28 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the most populated state in India?
+2026-08-23 14:56:29 [DEBUG   ] [generate_queries:127]     Hindi: भारत का सबसे अधिक जनसंख्या वाला राज्य कौन सा है?
+2026-08-23 14:56:29 [DEBUG   ] [generate_queries:128]     Hinglish: India ka sabse zyada population wala state kaun sa hai?
+2026-08-23 14:56:30 [INFO    ] [generate_queries:164] 
+Translating: [bihar_q0] What is the capital of Bihar?
+2026-08-23 14:56:30 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the capital of Bihar?
+2026-08-23 14:56:30 [DEBUG   ] [generate_queries:127]     Hindi: बिहार की राजधानी क्या है?
+2026-08-23 14:56:30 [DEBUG   ] [generate_queries:128]     Hinglish: Bihar ki rajdhani kya hai?
+2026-08-23 14:56:31 [INFO    ] [generate_queries:164] 
+Translating: [bihar_q1] Which ancient university was located in Bihar?
+2026-08-23 14:56:31 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): Which ancient university was located in Bihar?
+2026-08-23 14:56:32 [DEBUG   ] [generate_queries:127]     Hindi: बिहार में कौन सी प्राचीन विश्वविद्यालय स्थित थी?
+2026-08-23 14:56:32 [DEBUG   ] [generate_queries:128]     Hinglish: Bihar mein kaun si prachin university thi?
+2026-08-23 14:56:33 [INFO    ] [generate_queries:164] 
+Translating: [bihar_q2] What is the official language of Bihar?
+2026-08-23 14:56:33 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the official language of Bihar?
+2026-08-23 14:56:33 [DEBUG   ] [generate_queries:127]     Hindi: बिहार की आधिकारिक भाषा क्या है?
+2026-08-23 14:56:33 [DEBUG   ] [generate_queries:128]     Hinglish: Bihar ki official language kya hai?
+2026-08-23 14:56:34 [INFO    ] [generate_queries:164] 
+Translating: [gujarat_q0] What is the capital of Gujarat?
+2026-08-23 14:56:34 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the capital of Gujarat?
+2026-08-23 14:56:35 [DEBUG   ] [generate_queries:127]     Hindi: गुजरात की राजधानी क्या है?
+2026-08-23 14:56:35 [DEBUG   ] [generate_queries:128]     Hinglish: Gujarat ki capital kya hai?
+2026-08-23 14:56:36 [INFO    ] [generate_queries:164] 
+Translating: [gujarat_q1] Which sea borders Gujarat on the west?
+2026-08-23 14:56:36 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): Which sea borders Gujarat on the west?
+2026-08-23 14:56:37 [WARNING ] [generate_queries:132]   Parse error on attempt 1: Unterminated string starting at: line 1 column 60 (char 59) — retrying…
+2026-08-23 14:56:39 [DEBUG   ] [generate_queries:106]   Translating (attempt 2): Which sea borders Gujarat on the west?
+2026-08-23 14:56:39 [DEBUG   ] [generate_queries:127]     Hindi: गुजरात के पश्चिम में कौन सा समुद्र है?
+2026-08-23 14:56:39 [DEBUG   ] [generate_queries:128]     Hinglish: Gujarat ke west mein kaun sa sea hai?
+2026-08-23 14:56:40 [INFO    ] [generate_queries:164] 
+Translating: [gujarat_q2] What is the official language of Gujarat?
+2026-08-23 14:56:40 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the official language of Gujarat?
+2026-08-23 14:56:41 [DEBUG   ] [generate_queries:127]     Hindi: गुजरात की आधिकारिक भाषा क्या है?
+2026-08-23 14:56:41 [DEBUG   ] [generate_queries:128]     Hinglish: Gujarat ki official language kya hai?
+2026-08-23 14:56:42 [INFO    ] [generate_queries:164] 
+Translating: [tamil_nadu_q0] What is the capital of Tamil Nadu?
+2026-08-23 14:56:42 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the capital of Tamil Nadu?
+2026-08-23 14:56:42 [DEBUG   ] [generate_queries:127]     Hindi: तमिलनाडु की राजधानी क्या है?
+2026-08-23 14:56:42 [DEBUG   ] [generate_queries:128]     Hinglish: Tamil Nadu ki rajdhani kya hai?
+2026-08-23 14:56:43 [INFO    ] [generate_queries:164] 
+Translating: [tamil_nadu_q1] Which classical dance form originated in Tamil Nadu?
+2026-08-23 14:56:43 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): Which classical dance form originated in Tamil Nadu?
+2026-08-23 14:56:44 [DEBUG   ] [generate_queries:127]     Hindi: तमिलनाडु में उत्पन्न होने वाला कौन सा शास्त्रीय नृत्य रूप है?
+2026-08-23 14:56:44 [DEBUG   ] [generate_queries:128]     Hinglish: Tamill Nadu mein kaun sa classical dance form hai?
+2026-08-23 14:56:45 [INFO    ] [generate_queries:164] 
+Translating: [tamil_nadu_q2] What is the official language of Tamil Nadu?
+2026-08-23 14:56:45 [DEBUG   ] [generate_queries:106]   Translating (attempt 1): What is the official language of Tamil Nadu?
+2026-08-23 14:56:46 [DEBUG   ] [generate_queries:127]     Hindi: तमिलनाडु की आधिकारिक भाषा क्या है?
+2026-08-23 14:56:46 [DEBUG   ] [generate_queries:128]     Hinglish: Tamil Nadu ki official language kya hai?
+2026-08-23 14:56:47 [INFO    ] [generate_queries:203] 
+✓ Saved review CSV: data\queries_for_review.csv (72 rows)
+2026-08-23 14:56:47 [INFO    ] [generate_queries:210] ✓ Saved queries.json: data\queries.json (72 queries)
+2026-08-23 14:56:47 [INFO    ] [generate_queries:217] ✓ Query count correct: 72 (8 topics × 3 questions × 3 languages)
+2026-08-23 14:56:47 [INFO    ] [generate_queries:219] STEP 4 complete.
+
+2026-08-23 14:56:47 [INFO    ] [generate_queries:220] ACTION REQUIRED: Review data/queries_for_review.csv for Hinglish naturalness
+2026-08-23 14:56:47 [INFO    ] [generate_queries:221] Then run: python run_experiment.py
+2026-08-23 14:58:02 [INFO    ] [run_experiment:67] ============================================================
+2026-08-23 14:58:02 [INFO    ] [run_experiment:68] STEP 6 — Run Experiment (72 queries)
+2026-08-23 14:58:02 [INFO    ] [run_experiment:69] ============================================================
+2026-08-23 14:58:02 [INFO    ] [run_experiment:82] Loaded 72 queries from data\queries.json
+2026-08-23 14:58:02 [INFO    ] [run_experiment:88] LangSmith tracing ENABLED — project: hinglish-rag-diagnostic
+2026-08-23 14:58:02 [INFO    ] [run_experiment:93] Building LangGraph…
+2026-08-23 14:58:02 [INFO    ] [run_experiment:67] ============================================================
+2026-08-23 14:58:02 [INFO    ] [run_experiment:68] STEP 6 — Run Experiment (72 queries)
+2026-08-23 14:58:02 [INFO    ] [run_experiment:69] ============================================================
+2026-08-23 14:58:02 [INFO    ] [run_experiment:82] Loaded 72 queries from data\queries.json
+2026-08-23 14:58:02 [INFO    ] [run_experiment:88] LangSmith tracing ENABLED — project: hinglish-rag-diagnostic
+2026-08-23 14:58:02 [INFO    ] [run_experiment:93] Building LangGraph…
+2026-08-23 14:58:02 [INFO    ] [pipeline:235] LangGraph compiled: START → retrieve → generate → END
+2026-08-23 14:58:02 [INFO    ] [run_experiment:95] Graph ready.
+2026-08-23 14:58:02 [INFO    ] [run_experiment:109] 
+[1/72] query_id=rajasthan_q0_en | lang=en | query='What is the capital of Rajasthan?'
+2026-08-23 14:58:02 [INFO    ] [pipeline:235] LangGraph compiled: START → retrieve → generate → END
+2026-08-23 14:58:02 [INFO    ] [run_experiment:95] Graph ready.
+2026-08-23 14:58:02 [INFO    ] [run_experiment:109] 
+[1/72] query_id=rajasthan_q0_en | lang=en | query='What is the capital of Rajasthan?'
+2026-08-23 14:58:02 [DEBUG   ] [pipeline:126] [rajasthan_q0_en] RETRIEVE | lang=en | query='What is the capital of Rajasthan?'
+2026-08-23 14:58:02 [INFO    ] [pipeline:73] Loading embedding model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2026-08-23 14:58:02 [INFO    ] [pipeline:73] Loading embedding model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2026-08-23 14:58:12 [INFO    ] [pipeline:75] Embedding model ready.
+2026-08-23 14:58:12 [INFO    ] [pipeline:75] Embedding model ready.
+2026-08-23 14:58:14 [INFO    ] [pipeline:92] Chroma collection 'rag_diagnostic' loaded (2299 docs).
+2026-08-23 14:58:15 [INFO    ] [pipeline:92] Chroma collection 'rag_diagnostic' loaded (2299 docs).
+2026-08-23 14:58:15 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0004 topic=rajasthan lang=en sim=0.8149
+2026-08-23 14:58:15 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=rajasthan_en_chunk0139 topic=rajasthan lang=en sim=0.7674
+2026-08-23 14:58:15 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=rajasthan_en_chunk0139 topic=rajasthan lang=en sim=0.7674
+2026-08-23 14:58:15 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_en_chunk0135 topic=rajasthan lang=en sim=0.7585
+2026-08-23 14:58:15 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=rajasthan_en_chunk0009 topic=rajasthan lang=en sim=0.7395
+2026-08-23 14:58:15 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=rajasthan_en_chunk0038 topic=rajasthan lang=en sim=0.7305
+2026-08-23 14:58:15 [INFO    ] [pipeline:165] [rajasthan_q0_en] Retrieved 5 chunks | top sim=0.8149 | top chunk topic=rajasthan lang=en
+2026-08-23 14:58:15 [INFO    ] [pipeline:165] [rajasthan_q0_en] Retrieved 5 chunks | top sim=0.8149 | top chunk topic=rajasthan lang=en
+2026-08-23 14:58:15 [DEBUG   ] [pipeline:195] [rajasthan_q0_en] GENERATE | context_len=2209 chars
+2026-08-23 14:58:15 [DEBUG   ] [pipeline:196] [rajasthan_q0_en] Full context:
+[Source: rajasthan (en), Similarity: 0.8149]
+The State of Rajasthan was formed on 30 March 1949 when the states of the Rajputana Agency of the erstwhile British Empire in India were merged into the new Indian Union. Its capital and largest city is Jaipur. Other important cities are Jodhpur, Kota, Bikaner, Ajmer, Bhilwara, Sawai Madhopur, Bharatpur and Udaipur. The economy of Rajasthan is the seventh-largest state economy in India with ₹10.20 lakh crore (US$110 billion) in gross domestic product 
+2026-08-23 14:58:15 [DEBUG   ] [pipeline:196] [rajasthan_q0_en] Full context:
+[Source: rajasthan (en), Similarity: 0.8149]
+The State of Rajasthan was formed on 30 March 1949 when the states of the Rajputana Agency of the erstwhile British Empire in India were merged into the new Indian Union. Its capital and largest city is Jaipur. Other important cities are Jodhpur, Kota, Bikaner, Ajmer, Bhilwara, Sawai Madhopur, Bharatpur and Udaipur. The economy of Rajasthan is the seventh-largest state economy in India with ₹10.20 lakh crore (US$110 billion) in gross domestic product 
+2026-08-23 14:58:15 [INFO    ] [pipeline:103] Groq client initialized.
+2026-08-23 14:58:15 [INFO    ] [pipeline:103] Groq client initialized.
+2026-08-23 14:58:15 [INFO    ] [pipeline:213] [rajasthan_q0_en] Answer: The capital of Rajasthan is Jaipur.
+2026-08-23 14:58:16 [INFO    ] [pipeline:213] [rajasthan_q0_en] Answer: The capital of Rajasthan is Jaipur.
+2026-08-23 14:58:17 [INFO    ] [run_experiment:109] 
+[2/72] query_id=rajasthan_q0_hi | lang=hi | query='राजस्थान की राजधानी क्या है?'
+2026-08-23 14:58:17 [DEBUG   ] [pipeline:126] [rajasthan_q0_hi] RETRIEVE | lang=hi | query='राजस्थान की राजधानी क्या है?'
+2026-08-23 14:58:17 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=uttar_pradesh_hi_chunk0000 topic=uttar_pradesh lang=hi sim=0.6736
+2026-08-23 14:58:17 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=uttar_pradesh_hi_chunk0064 topic=uttar_pradesh lang=hi sim=0.6700
+2026-08-23 14:58:17 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_en_chunk0004 topic=rajasthan lang=en sim=0.6570
+2026-08-23 14:58:17 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=uttar_pradesh_en_chunk0036 topic=uttar_pradesh lang=en sim=0.6570
+2026-08-23 14:58:17 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=maharashtra_en_chunk0049 topic=maharashtra lang=en sim=0.6492
+2026-08-23 14:58:17 [INFO    ] [pipeline:165] [rajasthan_q0_hi] Retrieved 5 chunks | top sim=0.6736 | top chunk topic=uttar_pradesh lang=hi
+2026-08-23 14:58:17 [DEBUG   ] [pipeline:195] [rajasthan_q0_hi] GENERATE | context_len=2516 chars
+2026-08-23 14:58:17 [DEBUG   ] [pipeline:196] [rajasthan_q0_hi] Full context:
+[Source: uttar_pradesh (hi), Similarity: 0.6736]
+उत्तर प्रदेश (अंग्रेज़ी: Uttar Pradesh) भारत का सबसे बड़ा (जनसंख्या के आधार पर) राज्य और क्षेत्रफल की दृष्टि के आधार पर चौथा सबसे बड़ा राज्य है। लखनऊ प्रदेश की प्रशासनिक व विधायिक राजधानी है और प्रयागराज न्यायिक राजधानी है। आगरा, कानपुर, वाराणसी, एवं गोरखपुर प्रदेश के अन्य महत्त्वपूर्ण शहर हैं। राज्य के उत्तर में उत्तराखण्ड तथा हिमाचल प्रदेश, पश्चिम में हरियाणा, दिल्ली तथा राजस्थान, दक्षिण में मध्य प्रदेश तथा छत्तीसगढ़ और पूर्व में बिहार तथा झारखं
+2026-08-23 14:58:18 [INFO    ] [pipeline:213] [rajasthan_q0_hi] Answer: जयपुर।
+2026-08-23 14:58:18 [INFO    ] [run_experiment:109] 
+[2/72] query_id=rajasthan_q0_hi | lang=hi | query='राजस्थान की राजधानी क्या है?'
+2026-08-23 14:58:18 [DEBUG   ] [pipeline:126] [rajasthan_q0_hi] RETRIEVE | lang=hi | query='राजस्थान की राजधानी क्या है?'
+2026-08-23 14:58:18 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=uttar_pradesh_hi_chunk0000 topic=uttar_pradesh lang=hi sim=0.6736
+2026-08-23 14:58:18 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=uttar_pradesh_hi_chunk0064 topic=uttar_pradesh lang=hi sim=0.6700
+2026-08-23 14:58:18 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_en_chunk0004 topic=rajasthan lang=en sim=0.6570
+2026-08-23 14:58:18 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=uttar_pradesh_en_chunk0036 topic=uttar_pradesh lang=en sim=0.6570
+2026-08-23 14:58:18 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=maharashtra_en_chunk0049 topic=maharashtra lang=en sim=0.6492
+2026-08-23 14:58:18 [INFO    ] [pipeline:165] [rajasthan_q0_hi] Retrieved 5 chunks | top sim=0.6736 | top chunk topic=uttar_pradesh lang=hi
+2026-08-23 14:58:18 [DEBUG   ] [pipeline:195] [rajasthan_q0_hi] GENERATE | context_len=2516 chars
+2026-08-23 14:58:18 [DEBUG   ] [pipeline:196] [rajasthan_q0_hi] Full context:
+[Source: uttar_pradesh (hi), Similarity: 0.6736]
+उत्तर प्रदेश (अंग्रेज़ी: Uttar Pradesh) भारत का सबसे बड़ा (जनसंख्या के आधार पर) राज्य और क्षेत्रफल की दृष्टि के आधार पर चौथा सबसे बड़ा राज्य है। लखनऊ प्रदेश की प्रशासनिक व विधायिक राजधानी है और प्रयागराज न्यायिक राजधानी है। आगरा, कानपुर, वाराणसी, एवं गोरखपुर प्रदेश के अन्य महत्त्वपूर्ण शहर हैं। राज्य के उत्तर में उत्तराखण्ड तथा हिमाचल प्रदेश, पश्चिम में हरियाणा, दिल्ली तथा राजस्थान, दक्षिण में मध्य प्रदेश तथा छत्तीसगढ़ और पूर्व में बिहार तथा झारखं
+2026-08-23 14:58:19 [INFO    ] [pipeline:213] [rajasthan_q0_hi] Answer: राजस्थान की राजधानी जयपुर है।
+2026-08-23 14:58:19 [INFO    ] [run_experiment:109] 
+[3/72] query_id=rajasthan_q0_hinglish | lang=hinglish | query='Rajasthan ki capital kya hai?'
+2026-08-23 14:58:19 [DEBUG   ] [pipeline:126] [rajasthan_q0_hinglish] RETRIEVE | lang=hinglish | query='Rajasthan ki capital kya hai?'
+2026-08-23 14:58:19 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0139 topic=rajasthan lang=en sim=0.7120
+2026-08-23 14:58:19 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=rajasthan_en_chunk0004 topic=rajasthan lang=en sim=0.6670
+2026-08-23 14:58:19 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_en_chunk0135 topic=rajasthan lang=en sim=0.6668
+2026-08-23 14:58:19 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=rajasthan_hi_chunk0011 topic=rajasthan lang=hi sim=0.6388
+2026-08-23 14:58:19 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=rajasthan_en_chunk0009 topic=rajasthan lang=en sim=0.6381
+2026-08-23 14:58:19 [INFO    ] [pipeline:165] [rajasthan_q0_hinglish] Retrieved 5 chunks | top sim=0.7120 | top chunk topic=rajasthan lang=en
+2026-08-23 14:58:19 [DEBUG   ] [pipeline:195] [rajasthan_q0_hinglish] GENERATE | context_len=2211 chars
+2026-08-23 14:58:19 [DEBUG   ] [pipeline:196] [rajasthan_q0_hinglish] Full context:
+[Source: rajasthan (en), Similarity: 0.7120]
+Notable people
+See also
+Outline of Rajasthan
+
+---
+
+[Source: rajasthan (en), Similarity: 0.6670]
+The State of Rajasthan was formed on 30 March 1949 when the states of the Rajputana Agency of the erstwhile British Empire in India were merged into the new Indian Union. Its capital and largest city is Jaipur. Other important cities are Jodhpur, Kota, Bikaner, Ajmer, Bhilwara, Sawai Madhopur, Bharatpur and Udaipur. The economy of Rajasthan is the seventh-l
+2026-08-23 14:58:20 [INFO    ] [pipeline:213] [rajasthan_q0_hinglish] Answer: Jaipur.
+2026-08-23 14:58:20 [INFO    ] [run_experiment:109] 
+[3/72] query_id=rajasthan_q0_hinglish | lang=hinglish | query='Rajasthan ki capital kya hai?'
+2026-08-23 14:58:20 [DEBUG   ] [pipeline:126] [rajasthan_q0_hinglish] RETRIEVE | lang=hinglish | query='Rajasthan ki capital kya hai?'
+2026-08-23 14:58:20 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0139 topic=rajasthan lang=en sim=0.7120
+2026-08-23 14:58:20 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=rajasthan_en_chunk0004 topic=rajasthan lang=en sim=0.6670
+2026-08-23 14:58:20 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_en_chunk0135 topic=rajasthan lang=en sim=0.6668
+2026-08-23 14:58:20 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=rajasthan_hi_chunk0011 topic=rajasthan lang=hi sim=0.6388
+2026-08-23 14:58:20 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=rajasthan_en_chunk0009 topic=rajasthan lang=en sim=0.6381
+2026-08-23 14:58:20 [INFO    ] [pipeline:165] [rajasthan_q0_hinglish] Retrieved 5 chunks | top sim=0.7120 | top chunk topic=rajasthan lang=en
+2026-08-23 14:58:20 [DEBUG   ] [pipeline:195] [rajasthan_q0_hinglish] GENERATE | context_len=2211 chars
+2026-08-23 14:58:20 [DEBUG   ] [pipeline:196] [rajasthan_q0_hinglish] Full context:
+[Source: rajasthan (en), Similarity: 0.7120]
+Notable people
+See also
+Outline of Rajasthan
+
+---
+
+[Source: rajasthan (en), Similarity: 0.6670]
+The State of Rajasthan was formed on 30 March 1949 when the states of the Rajputana Agency of the erstwhile British Empire in India were merged into the new Indian Union. Its capital and largest city is Jaipur. Other important cities are Jodhpur, Kota, Bikaner, Ajmer, Bhilwara, Sawai Madhopur, Bharatpur and Udaipur. The economy of Rajasthan is the seventh-l
+2026-08-23 14:58:21 [INFO    ] [pipeline:213] [rajasthan_q0_hinglish] Answer: Jaipur.
+2026-08-23 14:58:21 [INFO    ] [run_experiment:109] 
+[4/72] query_id=rajasthan_q1_en | lang=en | query='Which desert is located in Rajasthan?'
+2026-08-23 14:58:21 [DEBUG   ] [pipeline:126] [rajasthan_q1_en] RETRIEVE | lang=en | query='Which desert is located in Rajasthan?'
+2026-08-23 14:58:21 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0000 topic=rajasthan lang=en sim=0.7359
+2026-08-23 14:58:21 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=rajasthan_en_chunk0049 topic=rajasthan lang=en sim=0.7319
+2026-08-23 14:58:21 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_en_chunk0041 topic=rajasthan lang=en sim=0.7210
+2026-08-23 14:58:21 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=rajasthan_en_chunk0050 topic=rajasthan lang=en sim=0.7029
+2026-08-23 14:58:21 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=rajasthan_en_chunk0139 topic=rajasthan lang=en sim=0.6748
+2026-08-23 14:58:21 [INFO    ] [pipeline:165] [rajasthan_q1_en] Retrieved 5 chunks | top sim=0.7359 | top chunk topic=rajasthan lang=en
+2026-08-23 14:58:21 [DEBUG   ] [pipeline:195] [rajasthan_q1_en] GENERATE | context_len=2288 chars
+2026-08-23 14:58:21 [DEBUG   ] [pipeline:196] [rajasthan_q1_en] Full context:
+[Source: rajasthan (en), Similarity: 0.7359]
+Rajasthan (Hindi: Rājasthāna, pronounced [ɾaːd͡ʒəsˈtʰaːn] ; lit. 'Land of Kings') is a state in northwestern India. It is the largest Indian state by area and the seventh largest by population. It covers 342,239 square kilometres (132,139 mi2) or 10.4 per cent of India's total geographical area. It is on India's northwestern side, where it comprises most of the wide and inhospitable Thar Desert (also known as the Great Indian Desert) and shares a bord
+2026-08-23 14:58:22 [INFO    ] [pipeline:213] [rajasthan_q1_en] Answer: The Thar Desert.
+2026-08-23 14:58:23 [INFO    ] [run_experiment:109] 
+[4/72] query_id=rajasthan_q1_en | lang=en | query='Which desert is located in Rajasthan?'
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:126] [rajasthan_q1_en] RETRIEVE | lang=en | query='Which desert is located in Rajasthan?'
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0000 topic=rajasthan lang=en sim=0.7359
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=rajasthan_en_chunk0049 topic=rajasthan lang=en sim=0.7319
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_en_chunk0041 topic=rajasthan lang=en sim=0.7210
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=rajasthan_en_chunk0050 topic=rajasthan lang=en sim=0.7029
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=rajasthan_en_chunk0139 topic=rajasthan lang=en sim=0.6748
+2026-08-23 14:58:23 [INFO    ] [pipeline:165] [rajasthan_q1_en] Retrieved 5 chunks | top sim=0.7359 | top chunk topic=rajasthan lang=en
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:195] [rajasthan_q1_en] GENERATE | context_len=2288 chars
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:196] [rajasthan_q1_en] Full context:
+[Source: rajasthan (en), Similarity: 0.7359]
+Rajasthan (Hindi: Rājasthāna, pronounced [ɾaːd͡ʒəsˈtʰaːn] ; lit. 'Land of Kings') is a state in northwestern India. It is the largest Indian state by area and the seventh largest by population. It covers 342,239 square kilometres (132,139 mi2) or 10.4 per cent of India's total geographical area. It is on India's northwestern side, where it comprises most of the wide and inhospitable Thar Desert (also known as the Great Indian Desert) and shares a bord
+2026-08-23 14:58:23 [INFO    ] [run_experiment:109] 
+[5/72] query_id=rajasthan_q1_hi | lang=hi | query='रजस्थान में कौन सा रेगिस्तान स्थित है?'
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:126] [rajasthan_q1_hi] RETRIEVE | lang=hi | query='रजस्थान में कौन सा रेगिस्तान स्थित है?'
+2026-08-23 14:58:23 [INFO    ] [pipeline:213] [rajasthan_q1_en] Answer: The Thar Desert.
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0055 topic=rajasthan lang=en sim=0.6243
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=rajasthan_en_chunk0050 topic=rajasthan lang=en sim=0.5918
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_en_chunk0049 topic=rajasthan lang=en sim=0.5685
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=uttar_pradesh_en_chunk0046 topic=uttar_pradesh lang=en sim=0.5478
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=maharashtra_en_chunk0046 topic=maharashtra lang=en sim=0.5471
+2026-08-23 14:58:23 [INFO    ] [pipeline:165] [rajasthan_q1_hi] Retrieved 5 chunks | top sim=0.6243 | top chunk topic=rajasthan lang=en
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:195] [rajasthan_q1_hi] GENERATE | context_len=2720 chars
+2026-08-23 14:58:23 [DEBUG   ] [pipeline:196] [rajasthan_q1_hi] Full context:
+[Source: rajasthan (en), Similarity: 0.6243]
+The Desert National Park in Jaisalmer, spread over an area of 3,162 square kilometres (1,221 sq mi), is an excellent example of the ecosystem of the Thar Desert and its diverse fauna.  Seashells and massive fossilised tree trunks in this park record the geological history of the desert. The region is a haven for migratory and resident birds of the desert. One can see many eagles, harriers, falcons, buzzards, kestrels and vultures. Short-toed snake eag
+2026-08-23 14:58:24 [INFO    ] [pipeline:213] [rajasthan_q1_hi] Answer: थार रेगिस्तान (Thar Desert) राजस्थान में स्थित है।
+2026-08-23 14:58:25 [INFO    ] [run_experiment:109] 
+[5/72] query_id=rajasthan_q1_hi | lang=hi | query='रजस्थान में कौन सा रेगिस्तान स्थित है?'
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:126] [rajasthan_q1_hi] RETRIEVE | lang=hi | query='रजस्थान में कौन सा रेगिस्तान स्थित है?'
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0055 topic=rajasthan lang=en sim=0.6243
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=rajasthan_en_chunk0050 topic=rajasthan lang=en sim=0.5918
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_en_chunk0049 topic=rajasthan lang=en sim=0.5685
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=uttar_pradesh_en_chunk0046 topic=uttar_pradesh lang=en sim=0.5478
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=maharashtra_en_chunk0046 topic=maharashtra lang=en sim=0.5471
+2026-08-23 14:58:25 [INFO    ] [pipeline:165] [rajasthan_q1_hi] Retrieved 5 chunks | top sim=0.6243 | top chunk topic=rajasthan lang=en
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:195] [rajasthan_q1_hi] GENERATE | context_len=2720 chars
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:196] [rajasthan_q1_hi] Full context:
+[Source: rajasthan (en), Similarity: 0.6243]
+The Desert National Park in Jaisalmer, spread over an area of 3,162 square kilometres (1,221 sq mi), is an excellent example of the ecosystem of the Thar Desert and its diverse fauna.  Seashells and massive fossilised tree trunks in this park record the geological history of the desert. The region is a haven for migratory and resident birds of the desert. One can see many eagles, harriers, falcons, buzzards, kestrels and vultures. Short-toed snake eag
+2026-08-23 14:58:25 [INFO    ] [pipeline:213] [rajasthan_q1_hi] Answer: थार रेगिस्तान (Thar Desert) राजस्थान में स्थित है।
+2026-08-23 14:58:25 [INFO    ] [run_experiment:109] 
+[6/72] query_id=rajasthan_q1_hinglish | lang=hinglish | query='Rajasthan mein kaun sa desert hai?'
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:126] [rajasthan_q1_hinglish] RETRIEVE | lang=hinglish | query='Rajasthan mein kaun sa desert hai?'
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0115 topic=rajasthan lang=en sim=0.5950
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=gujarat_hi_chunk0064 topic=gujarat lang=hi sim=0.5940
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_hi_chunk0030 topic=rajasthan lang=hi sim=0.5790
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=rajasthan_hi_chunk0031 topic=rajasthan lang=hi sim=0.5505
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=gujarat_hi_chunk0063 topic=gujarat lang=hi sim=0.5493
+2026-08-23 14:58:25 [INFO    ] [pipeline:165] [rajasthan_q1_hinglish] Retrieved 5 chunks | top sim=0.5950 | top chunk topic=rajasthan lang=en
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:195] [rajasthan_q1_hinglish] GENERATE | context_len=1630 chars
+2026-08-23 14:58:25 [DEBUG   ] [pipeline:196] [rajasthan_q1_hinglish] Full context:
+[Source: rajasthan (en), Similarity: 0.5950]
+and rassgullas from Bikaner. Originating from the Marwar region of the state is the concept of Marwari Bhojnalaya or vegetarian restaurants, today found in many parts of India, which offer vegetarian food popular among Marwari people. Ghee is an essential ingredient in most Rajasthani cuisines, and dollops of ghee are poured over food as a welcoming gesture for guests. Dal-baati-churma is very popular in Rajasthan. The traditional way to serve it is t
+2026-08-23 14:58:26 [INFO    ] [pipeline:213] [rajasthan_q1_hinglish] Answer: The context does not contain enough information to answer this question.
+2026-08-23 14:58:27 [INFO    ] [run_experiment:109] 
+[6/72] query_id=rajasthan_q1_hinglish | lang=hinglish | query='Rajasthan mein kaun sa desert hai?'
+2026-08-23 14:58:27 [DEBUG   ] [pipeline:126] [rajasthan_q1_hinglish] RETRIEVE | lang=hinglish | query='Rajasthan mein kaun sa desert hai?'
+2026-08-23 14:58:27 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0115 topic=rajasthan lang=en sim=0.5950
+2026-08-23 14:58:27 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=gujarat_hi_chunk0064 topic=gujarat lang=hi sim=0.5940
+2026-08-23 14:58:27 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_hi_chunk0030 topic=rajasthan lang=hi sim=0.5790
+2026-08-23 14:58:27 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=rajasthan_hi_chunk0031 topic=rajasthan lang=hi sim=0.5505
+2026-08-23 14:58:27 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=gujarat_hi_chunk0063 topic=gujarat lang=hi sim=0.5493
+2026-08-23 14:58:27 [INFO    ] [pipeline:165] [rajasthan_q1_hinglish] Retrieved 5 chunks | top sim=0.5950 | top chunk topic=rajasthan lang=en
+2026-08-23 14:58:27 [DEBUG   ] [pipeline:195] [rajasthan_q1_hinglish] GENERATE | context_len=1630 chars
+2026-08-23 14:58:27 [DEBUG   ] [pipeline:196] [rajasthan_q1_hinglish] Full context:
+[Source: rajasthan (en), Similarity: 0.5950]
+and rassgullas from Bikaner. Originating from the Marwar region of the state is the concept of Marwari Bhojnalaya or vegetarian restaurants, today found in many parts of India, which offer vegetarian food popular among Marwari people. Ghee is an essential ingredient in most Rajasthani cuisines, and dollops of ghee are poured over food as a welcoming gesture for guests. Dal-baati-churma is very popular in Rajasthan. The traditional way to serve it is t
+2026-08-23 14:58:28 [INFO    ] [run_experiment:109] 
+[7/72] query_id=rajasthan_q2_en | lang=en | query='What is the official language of Rajasthan?'
+2026-08-23 14:58:28 [DEBUG   ] [pipeline:126] [rajasthan_q2_en] RETRIEVE | lang=en | query='What is the official language of Rajasthan?'
+2026-08-23 14:58:28 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0107 topic=rajasthan lang=en sim=0.8624
+2026-08-23 14:58:28 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=uttar_pradesh_en_chunk0087 topic=uttar_pradesh lang=en sim=0.7313
+2026-08-23 14:58:28 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=bihar_hi_chunk0037 topic=bihar lang=hi sim=0.7236
+2026-08-23 14:58:28 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=rajasthan_en_chunk0007 topic=rajasthan lang=en sim=0.7203
+2026-08-23 14:58:28 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=gujarat_hi_chunk0036 topic=gujarat lang=hi sim=0.7157
+2026-08-23 14:58:28 [INFO    ] [pipeline:165] [rajasthan_q2_en] Retrieved 5 chunks | top sim=0.8624 | top chunk topic=rajasthan lang=en
+2026-08-23 14:58:28 [DEBUG   ] [pipeline:195] [rajasthan_q2_en] GENERATE | context_len=2729 chars
+2026-08-23 14:58:28 [DEBUG   ] [pipeline:196] [rajasthan_q2_en] Full context:
+[Source: rajasthan (en), Similarity: 0.8624]
+The languages of Rajasthan primarily belong to the Rajasthani group of Indo-Aryan languages, which most people regard as their own language. In the north are dialects of Punjabi and Bagri, which is a transition between Rajasthani and Punjabi. In the northeast Shekhawati and Dhundari are spoken which gradually merge with Haryanvi. In the east Mewati is spoken in the Mewat region, while in the far east Braj is spoken. To the southeast Haryanvi is spoken
+2026-08-23 14:58:35 [INFO    ] [pipeline:213] [rajasthan_q1_hinglish] Answer: The context does not contain enough information to answer this question.
+2026-08-23 14:58:35 [WARNING ] [pipeline:217] [rajasthan_q2_en] Groq error attempt 1: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kmfxfa5fff3bws1t0jc5a20a` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7482, Requested 1196. Please try again in 5.085s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-08-23 14:58:36 [INFO    ] [run_experiment:109] 
+[7/72] query_id=rajasthan_q2_en | lang=en | query='What is the official language of Rajasthan?'
+2026-08-23 14:58:36 [DEBUG   ] [pipeline:126] [rajasthan_q2_en] RETRIEVE | lang=en | query='What is the official language of Rajasthan?'
+2026-08-23 14:58:36 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0107 topic=rajasthan lang=en sim=0.8624
+2026-08-23 14:58:36 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=uttar_pradesh_en_chunk0087 topic=uttar_pradesh lang=en sim=0.7313
+2026-08-23 14:58:36 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=bihar_hi_chunk0037 topic=bihar lang=hi sim=0.7236
+2026-08-23 14:58:36 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=rajasthan_en_chunk0007 topic=rajasthan lang=en sim=0.7203
+2026-08-23 14:58:36 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=gujarat_hi_chunk0036 topic=gujarat lang=hi sim=0.7157
+2026-08-23 14:58:36 [INFO    ] [pipeline:165] [rajasthan_q2_en] Retrieved 5 chunks | top sim=0.8624 | top chunk topic=rajasthan lang=en
+2026-08-23 14:58:36 [DEBUG   ] [pipeline:195] [rajasthan_q2_en] GENERATE | context_len=2729 chars
+2026-08-23 14:58:36 [DEBUG   ] [pipeline:196] [rajasthan_q2_en] Full context:
+[Source: rajasthan (en), Similarity: 0.8624]
+The languages of Rajasthan primarily belong to the Rajasthani group of Indo-Aryan languages, which most people regard as their own language. In the north are dialects of Punjabi and Bagri, which is a transition between Rajasthani and Punjabi. In the northeast Shekhawati and Dhundari are spoken which gradually merge with Haryanvi. In the east Mewati is spoken in the Mewat region, while in the far east Braj is spoken. To the southeast Haryanvi is spoken
+2026-08-23 14:58:41 [WARNING ] [pipeline:217] [rajasthan_q2_en] Groq error attempt 1: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kmfxfa5fff3bws1t0jc5a20a` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7825, Requested 1196. Please try again in 7.657499999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-08-23 14:58:42 [INFO    ] [pipeline:213] [rajasthan_q2_en] Answer: The context does not contain enough information to answer this question.
+2026-08-23 14:58:43 [INFO    ] [run_experiment:109] 
+[8/72] query_id=rajasthan_q2_hi | lang=hi | query='राजस्थान की आधिकारिक भाषा क्या है?'
+2026-08-23 14:58:43 [DEBUG   ] [pipeline:126] [rajasthan_q2_hi] RETRIEVE | lang=hi | query='राजस्थान की आधिकारिक भाषा क्या है?'
+2026-08-23 14:58:43 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_hi_chunk0008 topic=rajasthan lang=hi sim=0.7619
+2026-08-23 14:58:43 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=rajasthan_en_chunk0107 topic=rajasthan lang=en sim=0.7536
+2026-08-23 14:58:43 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=uttar_pradesh_en_chunk0179 topic=uttar_pradesh lang=en sim=0.7498
+2026-08-23 14:58:43 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=uttar_pradesh_en_chunk0087 topic=uttar_pradesh lang=en sim=0.7396
+2026-08-23 14:58:43 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=uttar_pradesh_en_chunk0004 topic=uttar_pradesh lang=en sim=0.7286
+2026-08-23 14:58:43 [INFO    ] [pipeline:165] [rajasthan_q2_hi] Retrieved 5 chunks | top sim=0.7619 | top chunk topic=rajasthan lang=hi
+2026-08-23 14:58:43 [DEBUG   ] [pipeline:195] [rajasthan_q2_hi] GENERATE | context_len=2740 chars
+2026-08-23 14:58:43 [DEBUG   ] [pipeline:196] [rajasthan_q2_hi] Full context:
+[Source: rajasthan (hi), Similarity: 0.7619]
+एवं भौगोलिक विशेषताओं के परिचायक नामों से भी पुकारा जाता रहा है। पर तथ्य यह है कि राजस्थान के अधिकांश तत्कालीन क्षेत्रों के नाम वहां बोली जाने वाली प्रमुखतम बोलियों पर ही रखे गए थे। उदाहरणार्थ ढ़ूंढ़ाडी-बोली के इलाकों को ढ़ूंढ़ाड़ (जयपुर) कहते हैं। 'मेवाती' बोली वाले निकटवर्ती भू-भाग अलवर को 'मेवात', उदयपुर क्षेत्र में बोली जाने वाली बोली 'मेवाड़ी' के कारण उदयपुर को मेवाड़, ब्रजभाषा-बाहुल्य क्षेत्र को 'ब्रज', 'मारवाड़ी' बोली के कारण बीकानेर-जोधपुर इला
+2026-08-23 14:58:50 [INFO    ] [pipeline:213] [rajasthan_q2_en] Answer: The context does not contain enough information to answer this question.
+2026-08-23 14:58:52 [INFO    ] [run_experiment:109] 
+[8/72] query_id=rajasthan_q2_hi | lang=hi | query='राजस्थान की आधिकारिक भाषा क्या है?'
+2026-08-23 14:58:52 [DEBUG   ] [pipeline:126] [rajasthan_q2_hi] RETRIEVE | lang=hi | query='राजस्थान की आधिकारिक भाषा क्या है?'
+2026-08-23 14:58:52 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_hi_chunk0008 topic=rajasthan lang=hi sim=0.7619
+2026-08-23 14:58:52 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=rajasthan_en_chunk0107 topic=rajasthan lang=en sim=0.7536
+2026-08-23 14:58:52 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=uttar_pradesh_en_chunk0179 topic=uttar_pradesh lang=en sim=0.7498
+2026-08-23 14:58:52 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=uttar_pradesh_en_chunk0087 topic=uttar_pradesh lang=en sim=0.7396
+2026-08-23 14:58:52 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=uttar_pradesh_en_chunk0004 topic=uttar_pradesh lang=en sim=0.7286
+2026-08-23 14:58:52 [INFO    ] [pipeline:165] [rajasthan_q2_hi] Retrieved 5 chunks | top sim=0.7619 | top chunk topic=rajasthan lang=hi
+2026-08-23 14:58:52 [DEBUG   ] [pipeline:195] [rajasthan_q2_hi] GENERATE | context_len=2740 chars
+2026-08-23 14:58:52 [DEBUG   ] [pipeline:196] [rajasthan_q2_hi] Full context:
+[Source: rajasthan (hi), Similarity: 0.7619]
+एवं भौगोलिक विशेषताओं के परिचायक नामों से भी पुकारा जाता रहा है। पर तथ्य यह है कि राजस्थान के अधिकांश तत्कालीन क्षेत्रों के नाम वहां बोली जाने वाली प्रमुखतम बोलियों पर ही रखे गए थे। उदाहरणार्थ ढ़ूंढ़ाडी-बोली के इलाकों को ढ़ूंढ़ाड़ (जयपुर) कहते हैं। 'मेवाती' बोली वाले निकटवर्ती भू-भाग अलवर को 'मेवात', उदयपुर क्षेत्र में बोली जाने वाली बोली 'मेवाड़ी' के कारण उदयपुर को मेवाड़, ब्रजभाषा-बाहुल्य क्षेत्र को 'ब्रज', 'मारवाड़ी' बोली के कारण बीकानेर-जोधपुर इला
+2026-08-23 14:58:59 [INFO    ] [pipeline:213] [rajasthan_q2_hi] Answer: The context does not contain enough information to answer this question.
+2026-08-23 14:59:01 [INFO    ] [run_experiment:109] 
+[9/72] query_id=rajasthan_q2_hinglish | lang=hinglish | query='Rajasthan ki official language kya hai?'
+2026-08-23 14:59:01 [DEBUG   ] [pipeline:126] [rajasthan_q2_hinglish] RETRIEVE | lang=hinglish | query='Rajasthan ki official language kya hai?'
+2026-08-23 14:59:01 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0107 topic=rajasthan lang=en sim=0.7734
+2026-08-23 14:59:01 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=bihar_hi_chunk0037 topic=bihar lang=hi sim=0.7360
+2026-08-23 14:59:01 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_en_chunk0108 topic=rajasthan lang=en sim=0.7315
+2026-08-23 14:59:01 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=uttar_pradesh_en_chunk0179 topic=uttar_pradesh lang=en sim=0.7135
+2026-08-23 14:59:01 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=gujarat_hi_chunk0036 topic=gujarat lang=hi sim=0.7056
+2026-08-23 14:59:01 [INFO    ] [pipeline:165] [rajasthan_q2_hinglish] Retrieved 5 chunks | top sim=0.7734 | top chunk topic=rajasthan lang=en
+2026-08-23 14:59:01 [DEBUG   ] [pipeline:195] [rajasthan_q2_hinglish] GENERATE | context_len=2732 chars
+2026-08-23 14:59:01 [DEBUG   ] [pipeline:196] [rajasthan_q2_hinglish] Full context:
+[Source: rajasthan (en), Similarity: 0.7734]
+The languages of Rajasthan primarily belong to the Rajasthani group of Indo-Aryan languages, which most people regard as their own language. In the north are dialects of Punjabi and Bagri, which is a transition between Rajasthani and Punjabi. In the northeast Shekhawati and Dhundari are spoken which gradually merge with Haryanvi. In the east Mewati is spoken in the Mewat region, while in the far east Braj is spoken. To the southeast Haryanvi is spoken
+2026-08-23 14:59:07 [INFO    ] [pipeline:213] [rajasthan_q2_hi] Answer: The context does not contain enough information to answer this question.
+2026-08-23 14:59:08 [INFO    ] [run_experiment:109] 
+[9/72] query_id=rajasthan_q2_hinglish | lang=hinglish | query='Rajasthan ki official language kya hai?'
+2026-08-23 14:59:09 [DEBUG   ] [pipeline:126] [rajasthan_q2_hinglish] RETRIEVE | lang=hinglish | query='Rajasthan ki official language kya hai?'
+2026-08-23 14:59:09 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=rajasthan_en_chunk0107 topic=rajasthan lang=en sim=0.7734
+2026-08-23 14:59:09 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=bihar_hi_chunk0037 topic=bihar lang=hi sim=0.7360
+2026-08-23 14:59:09 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=rajasthan_en_chunk0108 topic=rajasthan lang=en sim=0.7315
+2026-08-23 14:59:09 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=uttar_pradesh_en_chunk0179 topic=uttar_pradesh lang=en sim=0.7135
+2026-08-23 14:59:09 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=gujarat_hi_chunk0036 topic=gujarat lang=hi sim=0.7056
+2026-08-23 14:59:09 [INFO    ] [pipeline:165] [rajasthan_q2_hinglish] Retrieved 5 chunks | top sim=0.7734 | top chunk topic=rajasthan lang=en
+2026-08-23 14:59:09 [DEBUG   ] [pipeline:195] [rajasthan_q2_hinglish] GENERATE | context_len=2732 chars
+2026-08-23 14:59:09 [DEBUG   ] [pipeline:196] [rajasthan_q2_hinglish] Full context:
+[Source: rajasthan (en), Similarity: 0.7734]
+The languages of Rajasthan primarily belong to the Rajasthani group of Indo-Aryan languages, which most people regard as their own language. In the north are dialects of Punjabi and Bagri, which is a transition between Rajasthani and Punjabi. In the northeast Shekhawati and Dhundari are spoken which gradually merge with Haryanvi. In the east Mewati is spoken in the Mewat region, while in the far east Braj is spoken. To the southeast Haryanvi is spoken
+2026-08-23 14:59:14 [WARNING ] [pipeline:217] [rajasthan_q2_hinglish] Groq error attempt 1: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kmfxfa5fff3bws1t0jc5a20a` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 6832, Requested 1238. Please try again in 525ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-08-23 14:59:16 [INFO    ] [pipeline:213] [rajasthan_q2_hinglish] Answer: The context does not contain enough information to answer this question.
+2026-08-23 14:59:18 [INFO    ] [run_experiment:109] 
+[10/72] query_id=kerala_q0_en | lang=en | query='What is the capital of Kerala?'
+2026-08-23 14:59:18 [DEBUG   ] [pipeline:126] [kerala_q0_en] RETRIEVE | lang=en | query='What is the capital of Kerala?'
+2026-08-23 14:59:18 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=kerala_en_chunk0012 topic=kerala lang=en sim=0.7579
+2026-08-23 14:59:18 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=kerala_en_chunk0001 topic=kerala lang=en sim=0.7544
+2026-08-23 14:59:18 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=kerala_en_chunk0000 topic=kerala lang=en sim=0.7481
+2026-08-23 14:59:18 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=kerala_en_chunk0205 topic=kerala lang=en sim=0.6994
+2026-08-23 14:59:18 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=kerala_en_chunk0272 topic=kerala lang=en sim=0.6982
+2026-08-23 14:59:18 [INFO    ] [pipeline:165] [kerala_q0_en] Retrieved 5 chunks | top sim=0.7579 | top chunk topic=kerala lang=en
+2026-08-23 14:59:18 [DEBUG   ] [pipeline:195] [kerala_q0_en] GENERATE | context_len=2140 chars
+2026-08-23 14:59:18 [DEBUG   ] [pipeline:196] [kerala_q0_en] Full context:
+[Source: kerala (en), Similarity: 0.7579]
+Renaming to Keralam
+
+---
+
+[Source: kerala (en), Similarity: 0.7544]
+east, and the Lakshadweep islands in the western vicinity. With 33 million inhabitants according to the 2011 census, Kerala is the 13th-most populous state in India. Thiruvananthapuram is the capital city while the Kochi metropolitan area is the state's most populated region. Malayalam is the most widely spoken language and, alongside English, serves as an official language of the state.
+2026-08-23 14:59:24 [INFO    ] [pipeline:213] [kerala_q0_en] Answer: Thiruvananthapuram.
+2026-08-23 14:59:25 [INFaO    ] [run_experiment:109] 
+[11/72] query_id=kerala_q0_hi | lang=hi | query='केरल की राजधानी क्या है?'
+2026-08-23 14:59:25 [DEBUG   ] [pipeline:126] [kerala_q0_hi] RETRIEVE | lang=hi | query='केरल की राजधानी क्या है?'
+2026-08-23 14:59:25 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=kerala_en_chunk0001 topic=kerala lang=en sim=0.6183
+2026-08-23 14:59:25 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=kerala_en_chunk0089 topic=kerala lang=en sim=0.6133
+2026-08-23 14:59:25 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=kerala_en_chunk0012 topic=kerala lang=en sim=0.6116
+2026-08-23 14:59:25 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=bihar_hi_chunk0077 topic=bihar lang=hi sim=0.6093
+2026-08-23 14:59:25 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=kerala_en_chunk0272 topic=kerala lang=en sim=0.6035
+2026-08-23 14:59:25 [INFO    ] [pipeline:165] [kerala_q0_hi] Retrieved 5 chunks | top sim=0.6183 | top chunk topic=kerala lang=en
+2026-08-23 14:59:25 [DEBUG   ] [pipeline:195] [kerala_q0_hi] GENERATE | context_len=1818 chars
+2026-08-23 14:59:25 [DEBUG   ] [pipeline:196] [kerala_q0_hi] Full context:
+[Source: kerala (en), Similarity: 0.6183]
+east, and the Lakshadweep islands in the western vicinity. With 33 million inhabitants according to the 2011 census, Kerala is the 13th-most populous state in India. Thiruvananthapuram is the capital city while the Kochi metropolitan area is the state's most populated region. Malayalam is the most widely spoken language and, alongside English, serves as an official language of the state.
+
+---
+
+[Source: kerala (en), Similarity: 0.6133]
+In 1664, the munici
+2026-08-23 14:59:29 [INFO    ] [pipeline:213] [kerala_q0_hi] Answer: थिरुवाननथपुरम् (Thiruvananthapuram)
+2026-08-23 14:59:30 [INFO    ] [run_experiment:109] 
+[12/72] query_id=kerala_q0_hinglish | lang=hinglish | query='Kerala ki capital kya hai?'
+2026-08-23 14:59:30 [DEBUG   ] [pipeline:126] [kerala_q0_hinglish] RETRIEVE | lang=hinglish | query='Kerala ki capital kya hai?'
+2026-08-23 14:59:30 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=kerala_en_chunk0012 topic=kerala lang=en sim=0.7381
+2026-08-23 14:59:30 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=kerala_en_chunk0282 topic=kerala lang=en sim=0.6837
+2026-08-23 14:59:30 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=kerala_en_chunk0000 topic=kerala lang=en sim=0.6562
+2026-08-23 14:59:30 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=kerala_en_chunk0167 topic=kerala lang=en sim=0.6526
+2026-08-23 14:59:30 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=kerala_en_chunk0001 topic=kerala lang=en sim=0.6394
+2026-08-23 14:59:30 [INFO    ] [pipeline:165] [kerala_q0_hinglish] Retrieved 5 chunks | top sim=0.7381 | top chunk topic=kerala lang=en
+2026-08-23 14:59:30 [DEBUG   ] [pipeline:195] [kerala_q0_hinglish] GENERATE | context_len=2057 chars
+2026-08-23 14:59:30 [DEBUG   ] [pipeline:196] [kerala_q0_hinglish] Full context:
+[Source: kerala (en), Similarity: 0.7381]
+Renaming to Keralam
+
+---
+
+[Source: kerala (en), Similarity: 0.6837]
+References
+Notes
+Sources
+Further reading
+Bose, Satheese Chandra and Varughese, Shiju Sam (eds.) 2015. Kerala Modernity: Ideas, Spaces and Practices in Transition. Hyderabad: Orient Blackswan.
+Chathukulam, Jos; Tharamangalam, Joseph (2021). "The Kerala model in the time of COVID19: Rethinking state, society and democracy". World Development. 137 105207. doi:10.1016/j.worlddev.2020.105207.
+2026-08-23 14:59:31 [WARNING ] [pipeline:217] [rajasthan_q2_hinglish] Groq error attempt 2: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kmfxfa5fff3bws1t0jc5a20a` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7368, Requested 1316. Please try again in 5.13s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-08-23 14:59:35 [INFO    ] [pipeline:213] [kerala_q0_hinglish] Answer: Thiruvananthapuram.
+2026-08-23 14:59:37 [INFO    ] [run_experiment:109] 
+[13/72] query_id=kerala_q1_en | lang=en | query='Which river is the longest in Kerala?'
+2026-08-23 14:59:37 [DEBUG   ] [pipeline:126] [kerala_q1_en] RETRIEVE | lang=en | query='Which river is the longest in Kerala?'
+2026-08-23 14:59:37 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=kerala_en_chunk0070 topic=kerala lang=en sim=0.7892
+2026-08-23 14:59:37 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=kerala_en_chunk0069 topic=kerala lang=en sim=0.7367
+2026-08-23 14:59:37 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=kerala_en_chunk0068 topic=kerala lang=en sim=0.7226
+2026-08-23 14:59:37 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=kerala_en_chunk0064 topic=kerala lang=en sim=0.6809
+2026-08-23 14:59:37 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=gujarat_en_chunk0099 topic=gujarat lang=en sim=0.6328
+2026-08-23 14:59:37 [INFO    ] [pipeline:165] [kerala_q1_en] Retrieved 5 chunks | top sim=0.7892 | top chunk topic=kerala lang=en
+2026-08-23 14:59:37 [DEBUG   ] [pipeline:195] [kerala_q1_en] GENERATE | context_len=2663 chars
+2026-08-23 14:59:37 [DEBUG   ] [pipeline:196] [kerala_q1_en] Full context:
+[Source: kerala (en), Similarity: 0.7892]
+128 kilometres (80 mi). The average length of the rivers is 64 kilometres (40 mi). Many of the rivers are small and entirely fed by monsoon rain. As Kerala's rivers are small and lacking in delta, they are more prone to environmental effects. The rivers face problems such as sand mining and pollution. The state experiences several natural hazards like landslides, floods and droughts. The state was also affected by the 2004 Indian Ocean tsunami, and in 20
+2026-08-23 14:59:42 [INFO    ] [pipeline:213] [kerala_q1_en] Answer: The longest river in Kerala is the Periyar.
+2026-08-23 14:59:44 [INFO    ] [run_experiment:109] 
+[14/72] query_id=kerala_q1_hi | lang=hi | query='केरल में सबसे लंबी नदी कौन सी है?'
+2026-08-23 14:59:44 [DEBUG   ] [pipeline:126] [kerala_q1_hi] RETRIEVE | lang=hi | query='केरल में सबसे लंबी नदी कौन सी है?'
+2026-08-23 14:59:44 [DEBUG   ] [pipeline:160]   Rank 1: chunk_id=kerala_en_chunk0070 topic=kerala lang=en sim=0.7474
+2026-08-23 14:59:44 [DEBUG   ] [pipeline:160]   Rank 2: chunk_id=kerala_en_chunk0069 topic=kerala lang=en sim=0.6875
+2026-08-23 14:59:44 [DEBUG   ] [pipeline:160]   Rank 3: chunk_id=gujarat_en_chunk0099 topic=gujarat lang=en sim=0.6867
+2026-08-23 14:59:44 [DEBUG   ] [pipeline:160]   Rank 4: chunk_id=kerala_en_chunk0163 topic=kerala lang=en sim=0.6613
+2026-08-23 14:59:44 [DEBUG   ] [pipeline:160]   Rank 5: chunk_id=kerala_en_chunk0068 topic=kerala lang=en sim=0.6544
+2026-08-23 14:59:44 [INFO    ] [pipeline:165] [kerala_q1_hi] Retrieved 5 chunks | top sim=0.7474 | top chunk topic=kerala lang=en
+2026-08-23 14:59:44 [DEBUG   ] [pipeline:195] [kerala_q1_hi] GENERATE | context_len=2662 chars
+2026-08-23 14:59:44 [DEBUG   ] [pipeline:196] [kerala_q1_hi] Full context:
+[Source: kerala (en), Similarity: 0.7474]
+128 kilometres (80 mi). The average length of the rivers is 64 kilometres (40 mi). Many of the rivers are small and entirely fed by monsoon rain. As Kerala's rivers are small and lacking in delta, they are more prone to environmental effects. The rivers face problems such as sand mining and pollution. The state experiences several natural hazards like landslides, floods and droughts. The state was also affected by the 2004 Indian Ocean tsunami, and in 20

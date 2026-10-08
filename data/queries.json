@@ -1,0 +1,578 @@
+[
+  {
+    "query_id": "rajasthan_q0_en",
+    "topic": "rajasthan",
+    "question_id": "rajasthan_q0",
+    "language": "en",
+    "query_text": "What is the capital of Rajasthan?",
+    "expected_source_topic": "rajasthan"
+  },
+  {
+    "query_id": "rajasthan_q0_hi",
+    "topic": "rajasthan",
+    "question_id": "rajasthan_q0",
+    "language": "hi",
+    "query_text": "राजस्थान की राजधानी क्या है?",
+    "expected_source_topic": "rajasthan"
+  },
+  {
+    "query_id": "rajasthan_q0_hinglish",
+    "topic": "rajasthan",
+    "question_id": "rajasthan_q0",
+    "language": "hinglish",
+    "query_text": "Rajasthan ki capital kya hai?",
+    "expected_source_topic": "rajasthan"
+  },
+  {
+    "query_id": "rajasthan_q1_en",
+    "topic": "rajasthan",
+    "question_id": "rajasthan_q1",
+    "language": "en",
+    "query_text": "Which desert is located in Rajasthan?",
+    "expected_source_topic": "rajasthan"
+  },
+  {
+    "query_id": "rajasthan_q1_hi",
+    "topic": "rajasthan",
+    "question_id": "rajasthan_q1",
+    "language": "hi",
+    "query_text": "रजस्थान में कौन सा रेगिस्तान स्थित है?",
+    "expected_source_topic": "rajasthan"
+  },
+  {
+    "query_id": "rajasthan_q1_hinglish",
+    "topic": "rajasthan",
+    "question_id": "rajasthan_q1",
+    "language": "hinglish",
+    "query_text": "Rajasthan mein kaun sa desert hai?",
+    "expected_source_topic": "rajasthan"
+  },
+  {
+    "query_id": "rajasthan_q2_en",
+    "topic": "rajasthan",
+    "question_id": "rajasthan_q2",
+    "language": "en",
+    "query_text": "What is the official language of Rajasthan?",
+    "expected_source_topic": "rajasthan"
+  },
+  {
+    "query_id": "rajasthan_q2_hi",
+    "topic": "rajasthan",
+    "question_id": "rajasthan_q2",
+    "language": "hi",
+    "query_text": "राजस्थान की आधिकारिक भाषा क्या है?",
+    "expected_source_topic": "rajasthan"
+  },
+  {
+    "query_id": "rajasthan_q2_hinglish",
+    "topic": "rajasthan",
+    "question_id": "rajasthan_q2",
+    "language": "hinglish",
+    "query_text": "Rajasthan ki official language kya hai?",
+    "expected_source_topic": "rajasthan"
+  },
+  {
+    "query_id": "kerala_q0_en",
+    "topic": "kerala",
+    "question_id": "kerala_q0",
+    "language": "en",
+    "query_text": "What is the capital of Kerala?",
+    "expected_source_topic": "kerala"
+  },
+  {
+    "query_id": "kerala_q0_hi",
+    "topic": "kerala",
+    "question_id": "kerala_q0",
+    "language": "hi",
+    "query_text": "केरल की राजधानी क्या है?",
+    "expected_source_topic": "kerala"
+  },
+  {
+    "query_id": "kerala_q0_hinglish",
+    "topic": "kerala",
+    "question_id": "kerala_q0",
+    "language": "hinglish",
+    "query_text": "Kerala ki capital kya hai?",
+    "expected_source_topic": "kerala"
+  },
+  {
+    "query_id": "kerala_q1_en",
+    "topic": "kerala",
+    "question_id": "kerala_q1",
+    "language": "en",
+    "query_text": "Which river is the longest in Kerala?",
+    "expected_source_topic": "kerala"
+  },
+  {
+    "query_id": "kerala_q1_hi",
+    "topic": "kerala",
+    "question_id": "kerala_q1",
+    "language": "hi",
+    "query_text": "केरल में सबसे लंबी नदी कौन सी है?",
+    "expected_source_topic": "kerala"
+  },
+  {
+    "query_id": "kerala_q1_hinglish",
+    "topic": "kerala",
+    "question_id": "kerala_q1",
+    "language": "hinglish",
+    "query_text": "Kerala ki sabse lambi nadi kaun si hai?",
+    "expected_source_topic": "kerala"
+  },
+  {
+    "query_id": "kerala_q2_en",
+    "topic": "kerala",
+    "question_id": "kerala_q2",
+    "language": "en",
+    "query_text": "What is the literacy rate of Kerala known for in India?",
+    "expected_source_topic": "kerala"
+  },
+  {
+    "query_id": "kerala_q2_hi",
+    "topic": "kerala",
+    "question_id": "kerala_q2",
+    "language": "hi",
+    "query_text": "भारत में केरल की साक्षरता दर कितनी है?",
+    "expected_source_topic": "kerala"
+  },
+  {
+    "query_id": "kerala_q2_hinglish",
+    "topic": "kerala",
+    "question_id": "kerala_q2",
+    "language": "hinglish",
+    "query_text": "India mein Kerala ki literacy rate kitni hai?",
+    "expected_source_topic": "kerala"
+  },
+  {
+    "query_id": "punjab_q0_en",
+    "topic": "punjab",
+    "question_id": "punjab_q0",
+    "language": "en",
+    "query_text": "What is the capital of Punjab?",
+    "expected_source_topic": "punjab"
+  },
+  {
+    "query_id": "punjab_q0_hi",
+    "topic": "punjab",
+    "question_id": "punjab_q0",
+    "language": "hi",
+    "query_text": "पंजाब की राजधानी क्या है?",
+    "expected_source_topic": "punjab"
+  },
+  {
+    "query_id": "punjab_q0_hinglish",
+    "topic": "punjab",
+    "question_id": "punjab_q0",
+    "language": "hinglish",
+    "query_text": "Punjab ki rajdhani kya hai?",
+    "expected_source_topic": "punjab"
+  },
+  {
+    "query_id": "punjab_q1_en",
+    "topic": "punjab",
+    "question_id": "punjab_q1",
+    "language": "en",
+    "query_text": "Which river gives Punjab its name?",
+    "expected_source_topic": "punjab"
+  },
+  {
+    "query_id": "punjab_q1_hi",
+    "topic": "punjab",
+    "question_id": "punjab_q1",
+    "language": "hi",
+    "query_text": "किस नदी ने पंजाब का नाम दिया?",
+    "expected_source_topic": "punjab"
+  },
+  {
+    "query_id": "punjab_q1_hinglish",
+    "topic": "punjab",
+    "question_id": "punjab_q1",
+    "language": "hinglish",
+    "query_text": "Kaun si nadi ne Punjab ka naam diya?",
+    "expected_source_topic": "punjab"
+  },
+  {
+    "query_id": "punjab_q2_en",
+    "topic": "punjab",
+    "question_id": "punjab_q2",
+    "language": "en",
+    "query_text": "What is the main language spoken in Punjab?",
+    "expected_source_topic": "punjab"
+  },
+  {
+    "query_id": "punjab_q2_hi",
+    "topic": "punjab",
+    "question_id": "punjab_q2",
+    "language": "hi",
+    "query_text": "पंजाब में मुख्य भाषा कौन सी है?",
+    "expected_source_topic": "punjab"
+  },
+  {
+    "query_id": "punjab_q2_hinglish",
+    "topic": "punjab",
+    "question_id": "punjab_q2",
+    "language": "hinglish",
+    "query_text": "Punjab mein main language kya hai?",
+    "expected_source_topic": "punjab"
+  },
+  {
+    "query_id": "maharashtra_q0_en",
+    "topic": "maharashtra",
+    "question_id": "maharashtra_q0",
+    "language": "en",
+    "query_text": "What is the capital of Maharashtra?",
+    "expected_source_topic": "maharashtra"
+  },
+  {
+    "query_id": "maharashtra_q0_hi",
+    "topic": "maharashtra",
+    "question_id": "maharashtra_q0",
+    "language": "hi",
+    "query_text": "महाराष्ट्र की राजधानी क्या है?",
+    "expected_source_topic": "maharashtra"
+  },
+  {
+    "query_id": "maharashtra_q0_hinglish",
+    "topic": "maharashtra",
+    "question_id": "maharashtra_q0",
+    "language": "hinglish",
+    "query_text": "Maharashtra ki rajdhani kya hai?",
+    "expected_source_topic": "maharashtra"
+  },
+  {
+    "query_id": "maharashtra_q1_en",
+    "topic": "maharashtra",
+    "question_id": "maharashtra_q1",
+    "language": "en",
+    "query_text": "Which dance form is famous in Maharashtra?",
+    "expected_source_topic": "maharashtra"
+  },
+  {
+    "query_id": "maharashtra_q1_hi",
+    "topic": "maharashtra",
+    "question_id": "maharashtra_q1",
+    "language": "hi",
+    "query_text": "महाराष्ट्र में कौन सा नृत्य रूप प्रसिद्ध है?",
+    "expected_source_topic": "maharashtra"
+  },
+  {
+    "query_id": "maharashtra_q1_hinglish",
+    "topic": "maharashtra",
+    "question_id": "maharashtra_q1",
+    "language": "hinglish",
+    "query_text": "Maharashtra mein kaun sa dance form famous hai?",
+    "expected_source_topic": "maharashtra"
+  },
+  {
+    "query_id": "maharashtra_q2_en",
+    "topic": "maharashtra",
+    "question_id": "maharashtra_q2",
+    "language": "en",
+    "query_text": "What is the official language of Maharashtra?",
+    "expected_source_topic": "maharashtra"
+  },
+  {
+    "query_id": "maharashtra_q2_hi",
+    "topic": "maharashtra",
+    "question_id": "maharashtra_q2",
+    "language": "hi",
+    "query_text": "महाराष्ट्र की आधिकारिक भाषा क्या है?",
+    "expected_source_topic": "maharashtra"
+  },
+  {
+    "query_id": "maharashtra_q2_hinglish",
+    "topic": "maharashtra",
+    "question_id": "maharashtra_q2",
+    "language": "hinglish",
+    "query_text": "Maharashtra ki official language kya hai?",
+    "expected_source_topic": "maharashtra"
+  },
+  {
+    "query_id": "uttar_pradesh_q0_en",
+    "topic": "uttar_pradesh",
+    "question_id": "uttar_pradesh_q0",
+    "language": "en",
+    "query_text": "What is the capital of Uttar Pradesh?",
+    "expected_source_topic": "uttar_pradesh"
+  },
+  {
+    "query_id": "uttar_pradesh_q0_hi",
+    "topic": "uttar_pradesh",
+    "question_id": "uttar_pradesh_q0",
+    "language": "hi",
+    "query_text": "उत्तर प्रदेश की राजधानी क्या है?",
+    "expected_source_topic": "uttar_pradesh"
+  },
+  {
+    "query_id": "uttar_pradesh_q0_hinglish",
+    "topic": "uttar_pradesh",
+    "question_id": "uttar_pradesh_q0",
+    "language": "hinglish",
+    "query_text": "Uttar Pradesh ki capital kya hai?",
+    "expected_source_topic": "uttar_pradesh"
+  },
+  {
+    "query_id": "uttar_pradesh_q1_en",
+    "topic": "uttar_pradesh",
+    "question_id": "uttar_pradesh_q1",
+    "language": "en",
+    "query_text": "Which famous monument is located in Agra, Uttar Pradesh?",
+    "expected_source_topic": "uttar_pradesh"
+  },
+  {
+    "query_id": "uttar_pradesh_q1_hi",
+    "topic": "uttar_pradesh",
+    "question_id": "uttar_pradesh_q1",
+    "language": "hi",
+    "query_text": "अगरा, उत्तर प्रदेश में कौन सा प्रसिद्ध स्मारक स्थित है?",
+    "expected_source_topic": "uttar_pradesh"
+  },
+  {
+    "query_id": "uttar_pradesh_q1_hinglish",
+    "topic": "uttar_pradesh",
+    "question_id": "uttar_pradesh_q1",
+    "language": "hinglish",
+    "query_text": "Agra, Uttar Pradesh mein kaun sa mashhoor monument hai?",
+    "expected_source_topic": "uttar_pradesh"
+  },
+  {
+    "query_id": "uttar_pradesh_q2_en",
+    "topic": "uttar_pradesh",
+    "question_id": "uttar_pradesh_q2",
+    "language": "en",
+    "query_text": "What is the most populated state in India?",
+    "expected_source_topic": "uttar_pradesh"
+  },
+  {
+    "query_id": "uttar_pradesh_q2_hi",
+    "topic": "uttar_pradesh",
+    "question_id": "uttar_pradesh_q2",
+    "language": "hi",
+    "query_text": "भारत का सबसे अधिक जनसंख्या वाला राज्य कौन सा है?",
+    "expected_source_topic": "uttar_pradesh"
+  },
+  {
+    "query_id": "uttar_pradesh_q2_hinglish",
+    "topic": "uttar_pradesh",
+    "question_id": "uttar_pradesh_q2",
+    "language": "hinglish",
+    "query_text": "India ka sabse zyada population wala state kaun sa hai?",
+    "expected_source_topic": "uttar_pradesh"
+  },
+  {
+    "query_id": "bihar_q0_en",
+    "topic": "bihar",
+    "question_id": "bihar_q0",
+    "language": "en",
+    "query_text": "What is the capital of Bihar?",
+    "expected_source_topic": "bihar"
+  },
+  {
+    "query_id": "bihar_q0_hi",
+    "topic": "bihar",
+    "question_id": "bihar_q0",
+    "language": "hi",
+    "query_text": "बिहार की राजधानी क्या है?",
+    "expected_source_topic": "bihar"
+  },
+  {
+    "query_id": "bihar_q0_hinglish",
+    "topic": "bihar",
+    "question_id": "bihar_q0",
+    "language": "hinglish",
+    "query_text": "Bihar ki rajdhani kya hai?",
+    "expected_source_topic": "bihar"
+  },
+  {
+    "query_id": "bihar_q1_en",
+    "topic": "bihar",
+    "question_id": "bihar_q1",
+    "language": "en",
+    "query_text": "Which ancient university was located in Bihar?",
+    "expected_source_topic": "bihar"
+  },
+  {
+    "query_id": "bihar_q1_hi",
+    "topic": "bihar",
+    "question_id": "bihar_q1",
+    "language": "hi",
+    "query_text": "बिहार में कौन सी प्राचीन विश्वविद्यालय स्थित थी?",
+    "expected_source_topic": "bihar"
+  },
+  {
+    "query_id": "bihar_q1_hinglish",
+    "topic": "bihar",
+    "question_id": "bihar_q1",
+    "language": "hinglish",
+    "query_text": "Bihar mein kaun si prachin university thi?",
+    "expected_source_topic": "bihar"
+  },
+  {
+    "query_id": "bihar_q2_en",
+    "topic": "bihar",
+    "question_id": "bihar_q2",
+    "language": "en",
+    "query_text": "What is the official language of Bihar?",
+    "expected_source_topic": "bihar"
+  },
+  {
+    "query_id": "bihar_q2_hi",
+    "topic": "bihar",
+    "question_id": "bihar_q2",
+    "language": "hi",
+    "query_text": "बिहार की आधिकारिक भाषा क्या है?",
+    "expected_source_topic": "bihar"
+  },
+  {
+    "query_id": "bihar_q2_hinglish",
+    "topic": "bihar",
+    "question_id": "bihar_q2",
+    "language": "hinglish",
+    "query_text": "Bihar ki official language kya hai?",
+    "expected_source_topic": "bihar"
+  },
+  {
+    "query_id": "gujarat_q0_en",
+    "topic": "gujarat",
+    "question_id": "gujarat_q0",
+    "language": "en",
+    "query_text": "What is the capital of Gujarat?",
+    "expected_source_topic": "gujarat"
+  },
+  {
+    "query_id": "gujarat_q0_hi",
+    "topic": "gujarat",
+    "question_id": "gujarat_q0",
+    "language": "hi",
+    "query_text": "गुजरात की राजधानी क्या है?",
+    "expected_source_topic": "gujarat"
+  },
+  {
+    "query_id": "gujarat_q0_hinglish",
+    "topic": "gujarat",
+    "question_id": "gujarat_q0",
+    "language": "hinglish",
+    "query_text": "Gujarat ki capital kya hai?",
+    "expected_source_topic": "gujarat"
+  },
+  {
+    "query_id": "gujarat_q1_en",
+    "topic": "gujarat",
+    "question_id": "gujarat_q1",
+    "language": "en",
+    "query_text": "Which sea borders Gujarat on the west?",
+    "expected_source_topic": "gujarat"
+  },
+  {
+    "query_id": "gujarat_q1_hi",
+    "topic": "gujarat",
+    "question_id": "gujarat_q1",
+    "language": "hi",
+    "query_text": "गुजरात के पश्चिम में कौन सा समुद्र है?",
+    "expected_source_topic": "gujarat"
+  },
+  {
+    "query_id": "gujarat_q1_hinglish",
+    "topic": "gujarat",
+    "question_id": "gujarat_q1",
+    "language": "hinglish",
+    "query_text": "Gujarat ke west mein kaun sa sea hai?",
+    "expected_source_topic": "gujarat"
+  },
+  {
+    "query_id": "gujarat_q2_en",
+    "topic": "gujarat",
+    "question_id": "gujarat_q2",
+    "language": "en",
+    "query_text": "What is the official language of Gujarat?",
+    "expected_source_topic": "gujarat"
+  },
+  {
+    "query_id": "gujarat_q2_hi",
+    "topic": "gujarat",
+    "question_id": "gujarat_q2",
+    "language": "hi",
+    "query_text": "गुजरात की आधिकारिक भाषा क्या है?",
+    "expected_source_topic": "gujarat"
+  },
+  {
+    "query_id": "gujarat_q2_hinglish",
+    "topic": "gujarat",
+    "question_id": "gujarat_q2",
+    "language": "hinglish",
+    "query_text": "Gujarat ki official language kya hai?",
+    "expected_source_topic": "gujarat"
+  },
+  {
+    "query_id": "tamil_nadu_q0_en",
+    "topic": "tamil_nadu",
+    "question_id": "tamil_nadu_q0",
+    "language": "en",
+    "query_text": "What is the capital of Tamil Nadu?",
+    "expected_source_topic": "tamil_nadu"
+  },
+  {
+    "query_id": "tamil_nadu_q0_hi",
+    "topic": "tamil_nadu",
+    "question_id": "tamil_nadu_q0",
+    "language": "hi",
+    "query_text": "तमिलनाडु की राजधानी क्या है?",
+    "expected_source_topic": "tamil_nadu"
+  },
+  {
+    "query_id": "tamil_nadu_q0_hinglish",
+    "topic": "tamil_nadu",
+    "question_id": "tamil_nadu_q0",
+    "language": "hinglish",
+    "query_text": "Tamil Nadu ki rajdhani kya hai?",
+    "expected_source_topic": "tamil_nadu"
+  },
+  {
+    "query_id": "tamil_nadu_q1_en",
+    "topic": "tamil_nadu",
+    "question_id": "tamil_nadu_q1",
+    "language": "en",
+    "query_text": "Which classical dance form originated in Tamil Nadu?",
+    "expected_source_topic": "tamil_nadu"
+  },
+  {
+    "query_id": "tamil_nadu_q1_hi",
+    "topic": "tamil_nadu",
+    "question_id": "tamil_nadu_q1",
+    "language": "hi",
+    "query_text": "तमिलनाडु में उत्पन्न होने वाला कौन सा शास्त्रीय नृत्य रूप है?",
+    "expected_source_topic": "tamil_nadu"
+  },
+  {
+    "query_id": "tamil_nadu_q1_hinglish",
+    "topic": "tamil_nadu",
+    "question_id": "tamil_nadu_q1",
+    "language": "hinglish",
+    "query_text": "Tamill Nadu mein kaun sa classical dance form hai?",
+    "expected_source_topic": "tamil_nadu"
+  },
+  {
+    "query_id": "tamil_nadu_q2_en",
+    "topic": "tamil_nadu",
+    "question_id": "tamil_nadu_q2",
+    "language": "en",
+    "query_text": "What is the official language of Tamil Nadu?",
+    "expected_source_topic": "tamil_nadu"
+  },
+  {
+    "query_id": "tamil_nadu_q2_hi",
+    "topic": "tamil_nadu",
+    "question_id": "tamil_nadu_q2",
+    "language": "hi",
+    "query_text": "तमिलनाडु की आधिकारिक भाषा क्या है?",
+    "expected_source_topic": "tamil_nadu"
+  },
+  {
+    "query_id": "tamil_nadu_q2_hinglish",
+    "topic": "tamil_nadu",
+    "question_id": "tamil_nadu_q2",
+    "language": "hinglish",
+    "query_text": "Tamil Nadu ki official language kya hai?",
+    "expected_source_topic": "tamil_nadu"
+  }
+]
