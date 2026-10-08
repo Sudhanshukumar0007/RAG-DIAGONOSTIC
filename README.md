@@ -187,4 +187,3 @@ This is a **vanilla RAG baseline** — the whole point is to measure unmodified 
 
 ### LangSmith tracing
 Configure via `.env`. The trace URL in `results.csv` points to the project-level dashboard; individual run traces are searchable by `run_name` (set to the `query_id`).
-# RAG-DIAGONOSTIC
